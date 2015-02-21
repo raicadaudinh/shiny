@@ -1,0 +1,1537 @@
+"TIME"	"GEO"	"AGE"	"SEX"	"Value"	"Flag.and.Footnotes"	"scenario"
+"1"	2015	"European Union (28 countries)"	"Total"	"Total"	"508,223,624"	NA	1
+"2"	2020	"European Union (28 countries)"	"Total"	"Total"	"512,474,771"	NA	1
+"3"	2025	"European Union (28 countries)"	"Total"	"Total"	"515,754,662"	NA	1
+"4"	2030	"European Union (28 countries)"	"Total"	"Total"	"518,499,055"	NA	1
+"5"	2035	"European Union (28 countries)"	"Total"	"Total"	"521,126,970"	NA	1
+"6"	2040	"European Union (28 countries)"	"Total"	"Total"	"523,545,921"	NA	1
+"7"	2045	"European Union (28 countries)"	"Total"	"Total"	"525,171,079"	NA	1
+"8"	2050	"European Union (28 countries)"	"Total"	"Total"	"525,527,890"	NA	1
+"9"	2055	"European Union (28 countries)"	"Total"	"Total"	"524,626,132"	NA	1
+"10"	2060	"European Union (28 countries)"	"Total"	"Total"	"522,945,539"	NA	1
+"11"	2065	"European Union (28 countries)"	"Total"	"Total"	"521,223,629"	NA	1
+"12"	2070	"European Union (28 countries)"	"Total"	"Total"	"520,123,107"	NA	1
+"13"	2075	"European Union (28 countries)"	"Total"	"Total"	"519,822,676"	NA	1
+"14"	2080	"European Union (28 countries)"	"Total"	"Total"	"520,035,469"	NA	1
+"15"	2015	"Belgium"	"Total"	"Total"	"11,336,943"	NA	1
+"16"	2020	"Belgium"	"Total"	"Total"	"11,824,225"	NA	1
+"17"	2025	"Belgium"	"Total"	"Total"	"12,349,354"	NA	1
+"18"	2030	"Belgium"	"Total"	"Total"	"12,885,338"	NA	1
+"19"	2035	"Belgium"	"Total"	"Total"	"13,414,290"	NA	1
+"20"	2040	"Belgium"	"Total"	"Total"	"13,918,014"	NA	1
+"21"	2045	"Belgium"	"Total"	"Total"	"14,372,768"	NA	1
+"22"	2050	"Belgium"	"Total"	"Total"	"14,758,714"	NA	1
+"23"	2055	"Belgium"	"Total"	"Total"	"15,086,872"	NA	1
+"24"	2060	"Belgium"	"Total"	"Total"	"15,400,272"	NA	1
+"25"	2065	"Belgium"	"Total"	"Total"	"15,712,902"	NA	1
+"26"	2070	"Belgium"	"Total"	"Total"	"16,027,593"	NA	1
+"27"	2075	"Belgium"	"Total"	"Total"	"16,332,982"	NA	1
+"28"	2080	"Belgium"	"Total"	"Total"	"16,614,305"	NA	1
+"29"	2015	"Bulgaria"	"Total"	"Total"	"7,199,931"	NA	1
+"30"	2020	"Bulgaria"	"Total"	"Total"	"6,975,188"	NA	1
+"31"	2025	"Bulgaria"	"Total"	"Total"	"6,730,279"	NA	1
+"32"	2030	"Bulgaria"	"Total"	"Total"	"6,478,705"	NA	1
+"33"	2035	"Bulgaria"	"Total"	"Total"	"6,259,054"	NA	1
+"34"	2040	"Bulgaria"	"Total"	"Total"	"6,087,310"	NA	1
+"35"	2045	"Bulgaria"	"Total"	"Total"	"5,932,174"	NA	1
+"36"	2050	"Bulgaria"	"Total"	"Total"	"5,781,498"	NA	1
+"37"	2055	"Bulgaria"	"Total"	"Total"	"5,633,154"	NA	1
+"38"	2060	"Bulgaria"	"Total"	"Total"	"5,477,666"	NA	1
+"39"	2065	"Bulgaria"	"Total"	"Total"	"5,316,803"	NA	1
+"40"	2070	"Bulgaria"	"Total"	"Total"	"5,166,354"	NA	1
+"41"	2075	"Bulgaria"	"Total"	"Total"	"5,035,518"	NA	1
+"42"	2080	"Bulgaria"	"Total"	"Total"	"4,925,270"	NA	1
+"43"	2015	"Czech Republic"	"Total"	"Total"	"10,536,043"	NA	1
+"44"	2020	"Czech Republic"	"Total"	"Total"	"10,644,858"	NA	1
+"45"	2025	"Czech Republic"	"Total"	"Total"	"10,725,547"	NA	1
+"46"	2030	"Czech Republic"	"Total"	"Total"	"10,778,136"	NA	1
+"47"	2035	"Czech Republic"	"Total"	"Total"	"10,824,078"	NA	1
+"48"	2040	"Czech Republic"	"Total"	"Total"	"10,905,139"	NA	1
+"49"	2045	"Czech Republic"	"Total"	"Total"	"11,006,335"	NA	1
+"50"	2050	"Czech Republic"	"Total"	"Total"	"11,072,795"	NA	1
+"51"	2055	"Czech Republic"	"Total"	"Total"	"11,095,608"	NA	1
+"52"	2060	"Czech Republic"	"Total"	"Total"	"11,081,326"	NA	1
+"53"	2065	"Czech Republic"	"Total"	"Total"	"11,039,735"	NA	1
+"54"	2070	"Czech Republic"	"Total"	"Total"	"10,996,260"	NA	1
+"55"	2075	"Czech Republic"	"Total"	"Total"	"10,982,432"	NA	1
+"56"	2080	"Czech Republic"	"Total"	"Total"	"10,998,397"	NA	1
+"57"	2015	"Denmark"	"Total"	"Total"	"5,649,584"	NA	1
+"58"	2020	"Denmark"	"Total"	"Total"	"5,773,812"	NA	1
+"59"	2025	"Denmark"	"Total"	"Total"	"5,915,450"	NA	1
+"60"	2030	"Denmark"	"Total"	"Total"	"6,055,858"	NA	1
+"61"	2035	"Denmark"	"Total"	"Total"	"6,178,468"	NA	1
+"62"	2040	"Denmark"	"Total"	"Total"	"6,276,457"	NA	1
+"63"	2045	"Denmark"	"Total"	"Total"	"6,353,852"	NA	1
+"64"	2050	"Denmark"	"Total"	"Total"	"6,417,094"	NA	1
+"65"	2055	"Denmark"	"Total"	"Total"	"6,474,721"	NA	1
+"66"	2060	"Denmark"	"Total"	"Total"	"6,536,806"	NA	1
+"67"	2065	"Denmark"	"Total"	"Total"	"6,601,579"	NA	1
+"68"	2070	"Denmark"	"Total"	"Total"	"6,667,645"	NA	1
+"69"	2075	"Denmark"	"Total"	"Total"	"6,732,817"	NA	1
+"70"	2080	"Denmark"	"Total"	"Total"	"6,792,190"	NA	1
+"71"	2015	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"80,709,056"	NA	1
+"72"	2020	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"80,637,413"	NA	1
+"73"	2025	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"80,325,473"	NA	1
+"74"	2030	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"79,758,182"	NA	1
+"75"	2035	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"78,944,469"	NA	1
+"76"	2040	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"77,811,398"	NA	1
+"77"	2045	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"76,387,955"	NA	1
+"78"	2050	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"74,721,315"	NA	1
+"79"	2055	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"72,878,732"	NA	1
+"80"	2060	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"71,021,529"	NA	1
+"81"	2065	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"69,356,128"	NA	1
+"82"	2070	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"67,929,656"	NA	1
+"83"	2075	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"66,630,760"	NA	1
+"84"	2080	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"65,378,410"	NA	1
+"85"	2015	"Estonia"	"Total"	"Total"	"1,311,505"	NA	1
+"86"	2020	"Estonia"	"Total"	"Total"	"1,284,459"	NA	1
+"87"	2025	"Estonia"	"Total"	"Total"	"1,247,214"	NA	1
+"88"	2030	"Estonia"	"Total"	"Total"	"1,208,245"	NA	1
+"89"	2035	"Estonia"	"Total"	"Total"	"1,178,674"	NA	1
+"90"	2040	"Estonia"	"Total"	"Total"	"1,162,106"	NA	1
+"91"	2045	"Estonia"	"Total"	"Total"	"1,147,303"	NA	1
+"92"	2050	"Estonia"	"Total"	"Total"	"1,131,200"	NA	1
+"93"	2055	"Estonia"	"Total"	"Total"	"1,113,217"	NA	1
+"94"	2060	"Estonia"	"Total"	"Total"	"1,092,858"	NA	1
+"95"	2065	"Estonia"	"Total"	"Total"	"1,072,951"	NA	1
+"96"	2070	"Estonia"	"Total"	"Total"	"1,055,413"	NA	1
+"97"	2075	"Estonia"	"Total"	"Total"	"1,041,539"	NA	1
+"98"	2080	"Estonia"	"Total"	"Total"	"1,029,443"	NA	1
+"99"	2015	"Ireland"	"Total"	"Total"	"4,602,854"	NA	1
+"100"	2020	"Ireland"	"Total"	"Total"	"4,610,198"	NA	1
+"101"	2025	"Ireland"	"Total"	"Total"	"4,576,170"	NA	1
+"102"	2030	"Ireland"	"Total"	"Total"	"4,556,903"	NA	1
+"103"	2035	"Ireland"	"Total"	"Total"	"4,589,593"	NA	1
+"104"	2040	"Ireland"	"Total"	"Total"	"4,680,654"	NA	1
+"105"	2045	"Ireland"	"Total"	"Total"	"4,813,704"	NA	1
+"106"	2050	"Ireland"	"Total"	"Total"	"4,964,968"	NA	1
+"107"	2055	"Ireland"	"Total"	"Total"	"5,110,264"	NA	1
+"108"	2060	"Ireland"	"Total"	"Total"	"5,239,211"	NA	1
+"109"	2065	"Ireland"	"Total"	"Total"	"5,371,504"	NA	1
+"110"	2070	"Ireland"	"Total"	"Total"	"5,522,959"	NA	1
+"111"	2075	"Ireland"	"Total"	"Total"	"5,698,918"	NA	1
+"112"	2080	"Ireland"	"Total"	"Total"	"5,895,992"	NA	1
+"113"	2015	"Greece"	"Total"	"Total"	"10,977,945"	NA	1
+"114"	2020	"Greece"	"Total"	"Total"	"10,703,417"	NA	1
+"115"	2025	"Greece"	"Total"	"Total"	"10,390,233"	NA	1
+"116"	2030	"Greece"	"Total"	"Total"	"10,090,040"	NA	1
+"117"	2035	"Greece"	"Total"	"Total"	"9,828,015"	NA	1
+"118"	2040	"Greece"	"Total"	"Total"	"9,594,043"	NA	1
+"119"	2045	"Greece"	"Total"	"Total"	"9,369,754"	NA	1
+"120"	2050	"Greece"	"Total"	"Total"	"9,134,040"	NA	1
+"121"	2055	"Greece"	"Total"	"Total"	"8,870,993"	NA	1
+"122"	2060	"Greece"	"Total"	"Total"	"8,588,747"	NA	1
+"123"	2065	"Greece"	"Total"	"Total"	"8,310,982"	NA	1
+"124"	2070	"Greece"	"Total"	"Total"	"8,061,924"	NA	1
+"125"	2075	"Greece"	"Total"	"Total"	"7,858,111"	NA	1
+"126"	2080	"Greece"	"Total"	"Total"	"7,697,872"	NA	1
+"127"	2015	"Spain"	"Total"	"Total"	"46,390,269"	NA	1
+"128"	2020	"Spain"	"Total"	"Total"	"45,794,180"	NA	1
+"129"	2025	"Spain"	"Total"	"Total"	"45,030,505"	NA	1
+"130"	2030	"Spain"	"Total"	"Total"	"44,524,313"	NA	1
+"131"	2035	"Spain"	"Total"	"Total"	"44,388,056"	NA	1
+"132"	2040	"Spain"	"Total"	"Total"	"44,611,491"	NA	1
+"133"	2045	"Spain"	"Total"	"Total"	"45,067,118"	NA	1
+"134"	2050	"Spain"	"Total"	"Total"	"45,543,565"	NA	1
+"135"	2055	"Spain"	"Total"	"Total"	"45,923,249"	NA	1
+"136"	2060	"Spain"	"Total"	"Total"	"46,117,126"	NA	1
+"137"	2065	"Spain"	"Total"	"Total"	"46,259,476"	NA	1
+"138"	2070	"Spain"	"Total"	"Total"	"46,490,103"	NA	1
+"139"	2075	"Spain"	"Total"	"Total"	"46,924,400"	NA	1
+"140"	2080	"Spain"	"Total"	"Total"	"47,599,370"	NA	1
+"141"	2015	"France"	"Total"	"Total"	"66,175,754"	NA	1
+"142"	2020	"France"	"Total"	"Total"	"67,658,927"	NA	1
+"143"	2025	"France"	"Total"	"Total"	"69,034,738"	NA	1
+"144"	2030	"France"	"Total"	"Total"	"70,396,105"	NA	1
+"145"	2035	"France"	"Total"	"Total"	"71,680,014"	NA	1
+"146"	2040	"France"	"Total"	"Total"	"72,767,166"	NA	1
+"147"	2045	"France"	"Total"	"Total"	"73,606,451"	NA	1
+"148"	2050	"France"	"Total"	"Total"	"74,297,319"	NA	1
+"149"	2055	"France"	"Total"	"Total"	"74,942,449"	NA	1
+"150"	2060	"France"	"Total"	"Total"	"75,599,180"	NA	1
+"151"	2065	"France"	"Total"	"Total"	"76,312,912"	NA	1
+"152"	2070	"France"	"Total"	"Total"	"77,109,937"	NA	1
+"153"	2075	"France"	"Total"	"Total"	"77,972,630"	NA	1
+"154"	2080	"France"	"Total"	"Total"	"78,842,668"	NA	1
+"155"	2015	"Croatia"	"Total"	"Total"	"4,244,995"	NA	1
+"156"	2020	"Croatia"	"Total"	"Total"	"4,198,876"	NA	1
+"157"	2025	"Croatia"	"Total"	"Total"	"4,145,276"	NA	1
+"158"	2030	"Croatia"	"Total"	"Total"	"4,087,043"	NA	1
+"159"	2035	"Croatia"	"Total"	"Total"	"4,024,311"	NA	1
+"160"	2040	"Croatia"	"Total"	"Total"	"3,957,957"	NA	1
+"161"	2045	"Croatia"	"Total"	"Total"	"3,892,008"	NA	1
+"162"	2050	"Croatia"	"Total"	"Total"	"3,828,405"	NA	1
+"163"	2055	"Croatia"	"Total"	"Total"	"3,766,153"	NA	1
+"164"	2060	"Croatia"	"Total"	"Total"	"3,704,650"	NA	1
+"165"	2065	"Croatia"	"Total"	"Total"	"3,645,062"	NA	1
+"166"	2070	"Croatia"	"Total"	"Total"	"3,583,749"	NA	1
+"167"	2075	"Croatia"	"Total"	"Total"	"3,525,401"	NA	1
+"168"	2080	"Croatia"	"Total"	"Total"	"3,471,568"	NA	1
+"169"	2015	"Italy"	"Total"	"Total"	"60,944,960"	NA	1
+"170"	2020	"Italy"	"Total"	"Total"	"61,961,266"	NA	1
+"171"	2025	"Italy"	"Total"	"Total"	"63,010,591"	NA	1
+"172"	2030	"Italy"	"Total"	"Total"	"64,115,332"	NA	1
+"173"	2035	"Italy"	"Total"	"Total"	"65,228,122"	NA	1
+"174"	2040	"Italy"	"Total"	"Total"	"66,212,289"	NA	1
+"175"	2045	"Italy"	"Total"	"Total"	"66,878,667"	NA	1
+"176"	2050	"Italy"	"Total"	"Total"	"67,058,919"	NA	1
+"177"	2055	"Italy"	"Total"	"Total"	"66,799,285"	NA	1
+"178"	2060	"Italy"	"Total"	"Total"	"66,344,759"	NA	1
+"179"	2065	"Italy"	"Total"	"Total"	"65,844,453"	NA	1
+"180"	2070	"Italy"	"Total"	"Total"	"65,456,936"	NA	1
+"181"	2075	"Italy"	"Total"	"Total"	"65,222,247"	NA	1
+"182"	2080	"Italy"	"Total"	"Total"	"65,059,083"	NA	1
+"183"	2015	"Cyprus"	"Total"	"Total"	"873,003"	NA	1
+"184"	2020	"Cyprus"	"Total"	"Total"	"890,982"	NA	1
+"185"	2025	"Cyprus"	"Total"	"Total"	"905,790"	NA	1
+"186"	2030	"Cyprus"	"Total"	"Total"	"921,058"	NA	1
+"187"	2035	"Cyprus"	"Total"	"Total"	"938,791"	NA	1
+"188"	2040	"Cyprus"	"Total"	"Total"	"962,786"	NA	1
+"189"	2045	"Cyprus"	"Total"	"Total"	"995,051"	NA	1
+"190"	2050	"Cyprus"	"Total"	"Total"	"1,035,392"	NA	1
+"191"	2055	"Cyprus"	"Total"	"Total"	"1,078,890"	NA	1
+"192"	2060	"Cyprus"	"Total"	"Total"	"1,119,229"	NA	1
+"193"	2065	"Cyprus"	"Total"	"Total"	"1,156,266"	NA	1
+"194"	2070	"Cyprus"	"Total"	"Total"	"1,190,406"	NA	1
+"195"	2075	"Cyprus"	"Total"	"Total"	"1,222,343"	NA	1
+"196"	2080	"Cyprus"	"Total"	"Total"	"1,253,155"	NA	1
+"197"	2015	"Latvia"	"Total"	"Total"	"1,985,887"	NA	1
+"198"	2020	"Latvia"	"Total"	"Total"	"1,880,087"	NA	1
+"199"	2025	"Latvia"	"Total"	"Total"	"1,755,404"	NA	1
+"200"	2030	"Latvia"	"Total"	"Total"	"1,634,612"	NA	1
+"201"	2035	"Latvia"	"Total"	"Total"	"1,551,426"	NA	1
+"202"	2040	"Latvia"	"Total"	"Total"	"1,513,038"	NA	1
+"203"	2045	"Latvia"	"Total"	"Total"	"1,482,060"	NA	1
+"204"	2050	"Latvia"	"Total"	"Total"	"1,453,698"	NA	1
+"205"	2055	"Latvia"	"Total"	"Total"	"1,425,864"	NA	1
+"206"	2060	"Latvia"	"Total"	"Total"	"1,398,567"	NA	1
+"207"	2065	"Latvia"	"Total"	"Total"	"1,376,255"	NA	1
+"208"	2070	"Latvia"	"Total"	"Total"	"1,361,216"	NA	1
+"209"	2075	"Latvia"	"Total"	"Total"	"1,353,635"	NA	1
+"210"	2080	"Latvia"	"Total"	"Total"	"1,351,057"	NA	1
+"211"	2015	"Lithuania"	"Total"	"Total"	"2,901,039"	NA	1
+"212"	2020	"Lithuania"	"Total"	"Total"	"2,671,108"	NA	1
+"213"	2025	"Lithuania"	"Total"	"Total"	"2,425,263"	NA	1
+"214"	2030	"Lithuania"	"Total"	"Total"	"2,201,947"	NA	1
+"215"	2035	"Lithuania"	"Total"	"Total"	"2,057,227"	NA	1
+"216"	2040	"Lithuania"	"Total"	"Total"	"1,997,167"	NA	1
+"217"	2045	"Lithuania"	"Total"	"Total"	"1,950,921"	NA	1
+"218"	2050	"Lithuania"	"Total"	"Total"	"1,910,327"	NA	1
+"219"	2055	"Lithuania"	"Total"	"Total"	"1,870,682"	NA	1
+"220"	2060	"Lithuania"	"Total"	"Total"	"1,835,498"	NA	1
+"221"	2065	"Lithuania"	"Total"	"Total"	"1,812,183"	NA	1
+"222"	2070	"Lithuania"	"Total"	"Total"	"1,806,837"	NA	1
+"223"	2075	"Lithuania"	"Total"	"Total"	"1,818,637"	NA	1
+"224"	2080	"Lithuania"	"Total"	"Total"	"1,841,709"	NA	1
+"225"	2015	"Luxembourg"	"Total"	"Total"	"562,848"	NA	1
+"226"	2020	"Luxembourg"	"Total"	"Total"	"632,529"	NA	1
+"227"	2025	"Luxembourg"	"Total"	"Total"	"707,777"	NA	1
+"228"	2030	"Luxembourg"	"Total"	"Total"	"785,154"	NA	1
+"229"	2035	"Luxembourg"	"Total"	"Total"	"861,351"	NA	1
+"230"	2040	"Luxembourg"	"Total"	"Total"	"932,937"	NA	1
+"231"	2045	"Luxembourg"	"Total"	"Total"	"997,144"	NA	1
+"232"	2050	"Luxembourg"	"Total"	"Total"	"1,051,255"	NA	1
+"233"	2055	"Luxembourg"	"Total"	"Total"	"1,096,814"	NA	1
+"234"	2060	"Luxembourg"	"Total"	"Total"	"1,139,562"	NA	1
+"235"	2065	"Luxembourg"	"Total"	"Total"	"1,180,178"	NA	1
+"236"	2070	"Luxembourg"	"Total"	"Total"	"1,218,753"	NA	1
+"237"	2075	"Luxembourg"	"Total"	"Total"	"1,254,701"	NA	1
+"238"	2080	"Luxembourg"	"Total"	"Total"	"1,287,296"	NA	1
+"239"	2015	"Hungary"	"Total"	"Total"	"9,863,193"	NA	1
+"240"	2020	"Hungary"	"Total"	"Total"	"9,799,790"	NA	1
+"241"	2025	"Hungary"	"Total"	"Total"	"9,745,349"	NA	1
+"242"	2030	"Hungary"	"Total"	"Total"	"9,679,364"	NA	1
+"243"	2035	"Hungary"	"Total"	"Total"	"9,602,186"	NA	1
+"244"	2040	"Hungary"	"Total"	"Total"	"9,520,475"	NA	1
+"245"	2045	"Hungary"	"Total"	"Total"	"9,441,984"	NA	1
+"246"	2050	"Hungary"	"Total"	"Total"	"9,350,126"	NA	1
+"247"	2055	"Hungary"	"Total"	"Total"	"9,259,772"	NA	1
+"248"	2060	"Hungary"	"Total"	"Total"	"9,165,291"	NA	1
+"249"	2065	"Hungary"	"Total"	"Total"	"9,044,051"	NA	1
+"250"	2070	"Hungary"	"Total"	"Total"	"8,910,068"	NA	1
+"251"	2075	"Hungary"	"Total"	"Total"	"8,788,896"	NA	1
+"252"	2080	"Hungary"	"Total"	"Total"	"8,685,213"	NA	1
+"253"	2015	"Malta"	"Total"	"Total"	"426,144"	NA	1
+"254"	2020	"Malta"	"Total"	"Total"	"438,166"	NA	1
+"255"	2025	"Malta"	"Total"	"Total"	"448,723"	NA	1
+"256"	2030	"Malta"	"Total"	"Total"	"456,212"	NA	1
+"257"	2035	"Malta"	"Total"	"Total"	"460,481"	NA	1
+"258"	2040	"Malta"	"Total"	"Total"	"462,760"	NA	1
+"259"	2045	"Malta"	"Total"	"Total"	"464,933"	NA	1
+"260"	2050	"Malta"	"Total"	"Total"	"468,119"	NA	1
+"261"	2055	"Malta"	"Total"	"Total"	"472,081"	NA	1
+"262"	2060	"Malta"	"Total"	"Total"	"476,006"	NA	1
+"263"	2065	"Malta"	"Total"	"Total"	"478,872"	NA	1
+"264"	2070	"Malta"	"Total"	"Total"	"480,482"	NA	1
+"265"	2075	"Malta"	"Total"	"Total"	"481,164"	NA	1
+"266"	2080	"Malta"	"Total"	"Total"	"481,567"	NA	1
+"267"	2015	"Netherlands"	"Total"	"Total"	"16,876,904"	NA	1
+"268"	2020	"Netherlands"	"Total"	"Total"	"17,132,291"	NA	1
+"269"	2025	"Netherlands"	"Total"	"Total"	"17,370,469"	NA	1
+"270"	2030	"Netherlands"	"Total"	"Total"	"17,556,995"	NA	1
+"271"	2035	"Netherlands"	"Total"	"Total"	"17,659,813"	NA	1
+"272"	2040	"Netherlands"	"Total"	"Total"	"17,653,370"	NA	1
+"273"	2045	"Netherlands"	"Total"	"Total"	"17,549,240"	NA	1
+"274"	2050	"Netherlands"	"Total"	"Total"	"17,397,786"	NA	1
+"275"	2055	"Netherlands"	"Total"	"Total"	"17,234,064"	NA	1
+"276"	2060	"Netherlands"	"Total"	"Total"	"17,083,919"	NA	1
+"277"	2065	"Netherlands"	"Total"	"Total"	"16,960,602"	NA	1
+"278"	2070	"Netherlands"	"Total"	"Total"	"16,875,280"	NA	1
+"279"	2075	"Netherlands"	"Total"	"Total"	"16,801,762"	NA	1
+"280"	2080	"Netherlands"	"Total"	"Total"	"16,718,275"	NA	1
+"281"	2015	"Austria"	"Total"	"Total"	"8,551,081"	NA	1
+"282"	2020	"Austria"	"Total"	"Total"	"8,793,916"	NA	1
+"283"	2025	"Austria"	"Total"	"Total"	"9,043,395"	NA	1
+"284"	2030	"Austria"	"Total"	"Total"	"9,272,212"	NA	1
+"285"	2035	"Austria"	"Total"	"Total"	"9,460,962"	NA	1
+"286"	2040	"Austria"	"Total"	"Total"	"9,605,887"	NA	1
+"287"	2045	"Austria"	"Total"	"Total"	"9,705,799"	NA	1
+"288"	2050	"Austria"	"Total"	"Total"	"9,747,249"	NA	1
+"289"	2055	"Austria"	"Total"	"Total"	"9,733,169"	NA	1
+"290"	2060	"Austria"	"Total"	"Total"	"9,698,711"	NA	1
+"291"	2065	"Austria"	"Total"	"Total"	"9,660,036"	NA	1
+"292"	2070	"Austria"	"Total"	"Total"	"9,629,453"	NA	1
+"293"	2075	"Austria"	"Total"	"Total"	"9,600,897"	NA	1
+"294"	2080	"Austria"	"Total"	"Total"	"9,562,386"	NA	1
+"295"	2015	"Poland"	"Total"	"Total"	"38,499,953"	NA	1
+"296"	2020	"Poland"	"Total"	"Total"	"38,390,693"	NA	1
+"297"	2025	"Poland"	"Total"	"Total"	"38,062,232"	NA	1
+"298"	2030	"Poland"	"Total"	"Total"	"37,525,745"	NA	1
+"299"	2035	"Poland"	"Total"	"Total"	"36,890,265"	NA	1
+"300"	2040	"Poland"	"Total"	"Total"	"36,241,010"	NA	1
+"301"	2045	"Poland"	"Total"	"Total"	"35,556,692"	NA	1
+"302"	2050	"Poland"	"Total"	"Total"	"34,842,067"	NA	1
+"303"	2055	"Poland"	"Total"	"Total"	"34,088,197"	NA	1
+"304"	2060	"Poland"	"Total"	"Total"	"33,293,791"	NA	1
+"305"	2065	"Poland"	"Total"	"Total"	"32,419,992"	NA	1
+"306"	2070	"Poland"	"Total"	"Total"	"31,465,728"	NA	1
+"307"	2075	"Poland"	"Total"	"Total"	"30,502,686"	NA	1
+"308"	2080	"Poland"	"Total"	"Total"	"29,582,117"	NA	1
+"309"	2015	"Portugal"	"Total"	"Total"	"10,367,550"	NA	1
+"310"	2020	"Portugal"	"Total"	"Total"	"10,139,999"	NA	1
+"311"	2025	"Portugal"	"Total"	"Total"	"9,956,053"	NA	1
+"312"	2030	"Portugal"	"Total"	"Total"	"9,777,538"	NA	1
+"313"	2035	"Portugal"	"Total"	"Total"	"9,591,877"	NA	1
+"314"	2040	"Portugal"	"Total"	"Total"	"9,386,339"	NA	1
+"315"	2045	"Portugal"	"Total"	"Total"	"9,146,233"	NA	1
+"316"	2050	"Portugal"	"Total"	"Total"	"8,862,900"	NA	1
+"317"	2055	"Portugal"	"Total"	"Total"	"8,549,217"	NA	1
+"318"	2060	"Portugal"	"Total"	"Total"	"8,228,392"	NA	1
+"319"	2065	"Portugal"	"Total"	"Total"	"7,914,377"	NA	1
+"320"	2070	"Portugal"	"Total"	"Total"	"7,618,571"	NA	1
+"321"	2075	"Portugal"	"Total"	"Total"	"7,350,445"	NA	1
+"322"	2080	"Portugal"	"Total"	"Total"	"7,113,878"	NA	1
+"323"	2015	"Romania"	"Total"	"Total"	"19,909,323"	NA	1
+"324"	2020	"Romania"	"Total"	"Total"	"19,686,804"	NA	1
+"325"	2025	"Romania"	"Total"	"Total"	"19,390,434"	NA	1
+"326"	2030	"Romania"	"Total"	"Total"	"19,003,562"	NA	1
+"327"	2035	"Romania"	"Total"	"Total"	"18,691,291"	NA	1
+"328"	2040	"Romania"	"Total"	"Total"	"18,458,698"	NA	1
+"329"	2045	"Romania"	"Total"	"Total"	"18,222,981"	NA	1
+"330"	2050	"Romania"	"Total"	"Total"	"17,973,992"	NA	1
+"331"	2055	"Romania"	"Total"	"Total"	"17,730,852"	NA	1
+"332"	2060	"Romania"	"Total"	"Total"	"17,440,757"	NA	1
+"333"	2065	"Romania"	"Total"	"Total"	"17,121,966"	NA	1
+"334"	2070	"Romania"	"Total"	"Total"	"16,812,947"	NA	1
+"335"	2075	"Romania"	"Total"	"Total"	"16,552,438"	NA	1
+"336"	2080	"Romania"	"Total"	"Total"	"16,338,339"	NA	1
+"337"	2015	"Slovenia"	"Total"	"Total"	"2,066,511"	NA	1
+"338"	2020	"Slovenia"	"Total"	"Total"	"2,086,779"	NA	1
+"339"	2025	"Slovenia"	"Total"	"Total"	"2,091,760"	NA	1
+"340"	2030	"Slovenia"	"Total"	"Total"	"2,087,658"	NA	1
+"341"	2035	"Slovenia"	"Total"	"Total"	"2,082,073"	NA	1
+"342"	2040	"Slovenia"	"Total"	"Total"	"2,078,633"	NA	1
+"343"	2045	"Slovenia"	"Total"	"Total"	"2,076,630"	NA	1
+"344"	2050	"Slovenia"	"Total"	"Total"	"2,070,382"	NA	1
+"345"	2055	"Slovenia"	"Total"	"Total"	"2,057,970"	NA	1
+"346"	2060	"Slovenia"	"Total"	"Total"	"2,041,350"	NA	1
+"347"	2065	"Slovenia"	"Total"	"Total"	"2,025,667"	NA	1
+"348"	2070	"Slovenia"	"Total"	"Total"	"2,013,688"	NA	1
+"349"	2075	"Slovenia"	"Total"	"Total"	"2,007,186"	NA	1
+"350"	2080	"Slovenia"	"Total"	"Total"	"2,006,508"	NA	1
+"351"	2015	"Slovakia"	"Total"	"Total"	"5,416,851"	NA	1
+"352"	2020	"Slovakia"	"Total"	"Total"	"5,414,527"	NA	1
+"353"	2025	"Slovakia"	"Total"	"Total"	"5,381,871"	NA	1
+"354"	2030	"Slovakia"	"Total"	"Total"	"5,314,025"	NA	1
+"355"	2035	"Slovakia"	"Total"	"Total"	"5,219,312"	NA	1
+"356"	2040	"Slovakia"	"Total"	"Total"	"5,111,991"	NA	1
+"357"	2045	"Slovakia"	"Total"	"Total"	"4,997,644"	NA	1
+"358"	2050	"Slovakia"	"Total"	"Total"	"4,869,970"	NA	1
+"359"	2055	"Slovakia"	"Total"	"Total"	"4,729,402"	NA	1
+"360"	2060	"Slovakia"	"Total"	"Total"	"4,574,335"	NA	1
+"361"	2065	"Slovakia"	"Total"	"Total"	"4,401,537"	NA	1
+"362"	2070	"Slovakia"	"Total"	"Total"	"4,218,590"	NA	1
+"363"	2075	"Slovakia"	"Total"	"Total"	"4,038,112"	NA	1
+"364"	2080	"Slovakia"	"Total"	"Total"	"3,868,254"	NA	1
+"365"	2015	"Finland"	"Total"	"Total"	"5,478,486"	NA	1
+"366"	2020	"Finland"	"Total"	"Total"	"5,618,852"	NA	1
+"367"	2025	"Finland"	"Total"	"Total"	"5,757,271"	NA	1
+"368"	2030	"Finland"	"Total"	"Total"	"5,880,844"	NA	1
+"369"	2035	"Finland"	"Total"	"Total"	"5,980,911"	NA	1
+"370"	2040	"Finland"	"Total"	"Total"	"6,057,554"	NA	1
+"371"	2045	"Finland"	"Total"	"Total"	"6,116,114"	NA	1
+"372"	2050	"Finland"	"Total"	"Total"	"6,160,986"	NA	1
+"373"	2055	"Finland"	"Total"	"Total"	"6,198,078"	NA	1
+"374"	2060	"Finland"	"Total"	"Total"	"6,239,956"	NA	1
+"375"	2065	"Finland"	"Total"	"Total"	"6,282,278"	NA	1
+"376"	2070	"Finland"	"Total"	"Total"	"6,322,737"	NA	1
+"377"	2075	"Finland"	"Total"	"Total"	"6,356,703"	NA	1
+"378"	2080	"Finland"	"Total"	"Total"	"6,381,733"	NA	1
+"379"	2015	"Sweden"	"Total"	"Total"	"9,721,642"	NA	1
+"380"	2020	"Sweden"	"Total"	"Total"	"10,138,157"	NA	1
+"381"	2025	"Sweden"	"Total"	"Total"	"10,581,812"	NA	1
+"382"	2030	"Sweden"	"Total"	"Total"	"10,998,167"	NA	1
+"383"	2035	"Sweden"	"Total"	"Total"	"11,375,308"	NA	1
+"384"	2040	"Sweden"	"Total"	"Total"	"11,737,728"	NA	1
+"385"	2045	"Sweden"	"Total"	"Total"	"12,099,193"	NA	1
+"386"	2050	"Sweden"	"Total"	"Total"	"12,446,286"	NA	1
+"387"	2055	"Sweden"	"Total"	"Total"	"12,763,042"	NA	1
+"388"	2060	"Sweden"	"Total"	"Total"	"13,054,199"	NA	1
+"389"	2065	"Sweden"	"Total"	"Total"	"13,326,261"	NA	1
+"390"	2070	"Sweden"	"Total"	"Total"	"13,594,803"	NA	1
+"391"	2075	"Sweden"	"Total"	"Total"	"13,860,883"	NA	1
+"392"	2080	"Sweden"	"Total"	"Total"	"14,110,527"	NA	1
+"393"	2015	"United Kingdom"	"Total"	"Total"	"64,643,370"	NA	1
+"394"	2020	"United Kingdom"	"Total"	"Total"	"66,693,272"	NA	1
+"395"	2025	"United Kingdom"	"Total"	"Total"	"68,650,229"	NA	1
+"396"	2030	"United Kingdom"	"Total"	"Total"	"70,469,762"	NA	1
+"397"	2035	"United Kingdom"	"Total"	"Total"	"72,166,552"	NA	1
+"398"	2040	"United Kingdom"	"Total"	"Total"	"73,841,524"	NA	1
+"399"	2045	"United Kingdom"	"Total"	"Total"	"75,540,371"	NA	1
+"400"	2050	"United Kingdom"	"Total"	"Total"	"77,177,523"	NA	1
+"401"	2055	"United Kingdom"	"Total"	"Total"	"78,643,341"	NA	1
+"402"	2060	"United Kingdom"	"Total"	"Total"	"79,951,846"	NA	1
+"403"	2065	"United Kingdom"	"Total"	"Total"	"81,218,621"	NA	1
+"404"	2070	"United Kingdom"	"Total"	"Total"	"82,535,019"	NA	1
+"405"	2075	"United Kingdom"	"Total"	"Total"	"83,874,433"	NA	1
+"406"	2080	"United Kingdom"	"Total"	"Total"	"85,148,887"	NA	1
+"407"	2015	"Iceland"	"Total"	"Total"	"328,574"	NA	1
+"408"	2020	"Iceland"	"Total"	"Total"	"341,970"	NA	1
+"409"	2025	"Iceland"	"Total"	"Total"	"354,586"	NA	1
+"410"	2030	"Iceland"	"Total"	"Total"	"366,519"	NA	1
+"411"	2035	"Iceland"	"Total"	"Total"	"377,755"	NA	1
+"412"	2040	"Iceland"	"Total"	"Total"	"388,467"	NA	1
+"413"	2045	"Iceland"	"Total"	"Total"	"398,777"	NA	1
+"414"	2050	"Iceland"	"Total"	"Total"	"408,806"	NA	1
+"415"	2055	"Iceland"	"Total"	"Total"	"418,577"	NA	1
+"416"	2060	"Iceland"	"Total"	"Total"	"428,166"	NA	1
+"417"	2065	"Iceland"	"Total"	"Total"	"437,867"	NA	1
+"418"	2070	"Iceland"	"Total"	"Total"	"447,726"	NA	1
+"419"	2075	"Iceland"	"Total"	"Total"	"457,566"	NA	1
+"420"	2080	"Iceland"	"Total"	"Total"	"467,187"	NA	1
+"421"	2015	"Norway"	"Total"	"Total"	"5,177,196"	NA	1
+"422"	2020	"Norway"	"Total"	"Total"	"5,547,598"	NA	1
+"423"	2025	"Norway"	"Total"	"Total"	"5,954,753"	NA	1
+"424"	2030	"Norway"	"Total"	"Total"	"6,364,369"	NA	1
+"425"	2035	"Norway"	"Total"	"Total"	"6,752,495"	NA	1
+"426"	2040	"Norway"	"Total"	"Total"	"7,106,447"	NA	1
+"427"	2045	"Norway"	"Total"	"Total"	"7,421,016"	NA	1
+"428"	2050	"Norway"	"Total"	"Total"	"7,689,383"	NA	1
+"429"	2055	"Norway"	"Total"	"Total"	"7,918,671"	NA	1
+"430"	2060	"Norway"	"Total"	"Total"	"8,132,298"	NA	1
+"431"	2065	"Norway"	"Total"	"Total"	"8,331,322"	NA	1
+"432"	2070	"Norway"	"Total"	"Total"	"8,518,979"	NA	1
+"433"	2075	"Norway"	"Total"	"Total"	"8,694,447"	NA	1
+"434"	2080	"Norway"	"Total"	"Total"	"8,851,414"	NA	1
+"435"	2015	"Switzerland"	"Total"	"Total"	"8,223,903"	NA	1
+"436"	2020	"Switzerland"	"Total"	"Total"	"8,669,719"	NA	1
+"437"	2025	"Switzerland"	"Total"	"Total"	"9,121,798"	NA	1
+"438"	2030	"Switzerland"	"Total"	"Total"	"9,555,778"	NA	1
+"439"	2035	"Switzerland"	"Total"	"Total"	"9,954,420"	NA	1
+"440"	2040	"Switzerland"	"Total"	"Total"	"10,311,607"	NA	1
+"441"	2045	"Switzerland"	"Total"	"Total"	"10,625,539"	NA	1
+"442"	2050	"Switzerland"	"Total"	"Total"	"10,882,224"	NA	1
+"443"	2055	"Switzerland"	"Total"	"Total"	"11,080,368"	NA	1
+"444"	2060	"Switzerland"	"Total"	"Total"	"11,249,587"	NA	1
+"445"	2065	"Switzerland"	"Total"	"Total"	"11,408,426"	NA	1
+"446"	2070	"Switzerland"	"Total"	"Total"	"11,568,716"	NA	1
+"447"	2075	"Switzerland"	"Total"	"Total"	"11,725,799"	NA	1
+"448"	2080	"Switzerland"	"Total"	"Total"	"11,870,552"	NA	1
+"449"	2015	"European Union (28 countries)"	"Total"	"Total"	"508,245,260"	NA	3
+"450"	2020	"European Union (28 countries)"	"Total"	"Total"	"512,880,552"	NA	3
+"451"	2025	"European Union (28 countries)"	"Total"	"Total"	"516,900,195"	NA	3
+"452"	2030	"European Union (28 countries)"	"Total"	"Total"	"520,644,997"	NA	3
+"453"	2035	"European Union (28 countries)"	"Total"	"Total"	"524,485,693"	NA	3
+"454"	2040	"European Union (28 countries)"	"Total"	"Total"	"528,301,525"	NA	3
+"455"	2045	"European Union (28 countries)"	"Total"	"Total"	"531,451,647"	NA	3
+"456"	2050	"European Union (28 countries)"	"Total"	"Total"	"533,388,394"	NA	3
+"457"	2055	"European Union (28 countries)"	"Total"	"Total"	"534,073,627"	NA	3
+"458"	2060	"European Union (28 countries)"	"Total"	"Total"	"533,900,985"	NA	3
+"459"	2015	"Belgium"	"Total"	"Total"	"11,337,428"	NA	3
+"460"	2020	"Belgium"	"Total"	"Total"	"11,833,198"	NA	3
+"461"	2025	"Belgium"	"Total"	"Total"	"12,374,413"	NA	3
+"462"	2030	"Belgium"	"Total"	"Total"	"12,932,145"	NA	3
+"463"	2035	"Belgium"	"Total"	"Total"	"13,488,385"	NA	3
+"464"	2040	"Belgium"	"Total"	"Total"	"14,024,958"	NA	3
+"465"	2045	"Belgium"	"Total"	"Total"	"14,516,498"	NA	3
+"466"	2050	"Belgium"	"Total"	"Total"	"14,940,981"	NA	3
+"467"	2055	"Belgium"	"Total"	"Total"	"15,307,852"	NA	3
+"468"	2060	"Belgium"	"Total"	"Total"	"15,658,371"	NA	3
+"469"	2015	"Bulgaria"	"Total"	"Total"	"7,200,362"	NA	3
+"470"	2020	"Bulgaria"	"Total"	"Total"	"6,982,839"	NA	3
+"471"	2025	"Bulgaria"	"Total"	"Total"	"6,750,809"	NA	3
+"472"	2030	"Bulgaria"	"Total"	"Total"	"6,515,550"	NA	3
+"473"	2035	"Bulgaria"	"Total"	"Total"	"6,314,446"	NA	3
+"474"	2040	"Bulgaria"	"Total"	"Total"	"6,161,976"	NA	3
+"475"	2045	"Bulgaria"	"Total"	"Total"	"6,025,241"	NA	3
+"476"	2050	"Bulgaria"	"Total"	"Total"	"5,891,844"	NA	3
+"477"	2055	"Bulgaria"	"Total"	"Total"	"5,760,397"	NA	3
+"478"	2060	"Bulgaria"	"Total"	"Total"	"5,621,844"	NA	3
+"479"	2015	"Czech Republic"	"Total"	"Total"	"10,536,506"	NA	3
+"480"	2020	"Czech Republic"	"Total"	"Total"	"10,653,546"	NA	3
+"481"	2025	"Czech Republic"	"Total"	"Total"	"10,750,365"	NA	3
+"482"	2030	"Czech Republic"	"Total"	"Total"	"10,825,658"	NA	3
+"483"	2035	"Czech Republic"	"Total"	"Total"	"10,899,725"	NA	3
+"484"	2040	"Czech Republic"	"Total"	"Total"	"11,011,599"	NA	3
+"485"	2045	"Czech Republic"	"Total"	"Total"	"11,143,048"	NA	3
+"486"	2050	"Czech Republic"	"Total"	"Total"	"11,238,895"	NA	3
+"487"	2055	"Czech Republic"	"Total"	"Total"	"11,292,997"	NA	3
+"488"	2060	"Czech Republic"	"Total"	"Total"	"11,314,020"	NA	3
+"489"	2015	"Denmark"	"Total"	"Total"	"5,649,819"	NA	3
+"490"	2020	"Denmark"	"Total"	"Total"	"5,778,134"	NA	3
+"491"	2025	"Denmark"	"Total"	"Total"	"5,928,014"	NA	3
+"492"	2030	"Denmark"	"Total"	"Total"	"6,080,153"	NA	3
+"493"	2035	"Denmark"	"Total"	"Total"	"6,217,176"	NA	3
+"494"	2040	"Denmark"	"Total"	"Total"	"6,330,858"	NA	3
+"495"	2045	"Denmark"	"Total"	"Total"	"6,424,116"	NA	3
+"496"	2050	"Denmark"	"Total"	"Total"	"6,503,541"	NA	3
+"497"	2055	"Denmark"	"Total"	"Total"	"6,577,975"	NA	3
+"498"	2060	"Denmark"	"Total"	"Total"	"6,656,253"	NA	3
+"499"	2015	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"80,712,772"	NA	3
+"500"	2020	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"80,707,752"	NA	3
+"501"	2025	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"80,525,803"	NA	3
+"502"	2030	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"80,131,883"	NA	3
+"503"	2035	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"79,515,958"	NA	3
+"504"	2040	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"78,603,394"	NA	3
+"505"	2045	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"77,431,060"	NA	3
+"506"	2050	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"76,034,064"	NA	3
+"507"	2055	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"74,446,326"	NA	3
+"508"	2060	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"72,790,542"	NA	3
+"509"	2015	"Estonia"	"Total"	"Total"	"1,311,571"	NA	3
+"510"	2020	"Estonia"	"Total"	"Total"	"1,285,639"	NA	3
+"511"	2025	"Estonia"	"Total"	"Total"	"1,250,495"	NA	3
+"512"	2030	"Estonia"	"Total"	"Total"	"1,214,231"	NA	3
+"513"	2035	"Estonia"	"Total"	"Total"	"1,187,728"	NA	3
+"514"	2040	"Estonia"	"Total"	"Total"	"1,174,516"	NA	3
+"515"	2045	"Estonia"	"Total"	"Total"	"1,163,267"	NA	3
+"516"	2050	"Estonia"	"Total"	"Total"	"1,150,579"	NA	3
+"517"	2055	"Estonia"	"Total"	"Total"	"1,135,719"	NA	3
+"518"	2060	"Estonia"	"Total"	"Total"	"1,118,212"	NA	3
+"519"	2015	"Ireland"	"Total"	"Total"	"4,602,970"	NA	3
+"520"	2020	"Ireland"	"Total"	"Total"	"4,612,542"	NA	3
+"521"	2025	"Ireland"	"Total"	"Total"	"4,583,136"	NA	3
+"522"	2030	"Ireland"	"Total"	"Total"	"4,570,608"	NA	3
+"523"	2035	"Ireland"	"Total"	"Total"	"4,612,046"	NA	3
+"524"	2040	"Ireland"	"Total"	"Total"	"4,713,656"	NA	3
+"525"	2045	"Ireland"	"Total"	"Total"	"4,858,610"	NA	3
+"526"	2050	"Ireland"	"Total"	"Total"	"5,022,808"	NA	3
+"527"	2055	"Ireland"	"Total"	"Total"	"5,181,785"	NA	3
+"528"	2060	"Ireland"	"Total"	"Total"	"5,324,573"	NA	3
+"529"	2015	"Greece"	"Total"	"Total"	"10,978,439"	NA	3
+"530"	2020	"Greece"	"Total"	"Total"	"10,712,628"	NA	3
+"531"	2025	"Greece"	"Total"	"Total"	"10,415,608"	NA	3
+"532"	2030	"Greece"	"Total"	"Total"	"10,135,950"	NA	3
+"533"	2035	"Greece"	"Total"	"Total"	"9,897,514"	NA	3
+"534"	2040	"Greece"	"Total"	"Total"	"9,690,107"	NA	3
+"535"	2045	"Greece"	"Total"	"Total"	"9,494,884"	NA	3
+"536"	2050	"Greece"	"Total"	"Total"	"9,289,872"	NA	3
+"537"	2055	"Greece"	"Total"	"Total"	"9,058,106"	NA	3
+"538"	2060	"Greece"	"Total"	"Total"	"8,805,790"	NA	3
+"539"	2015	"Spain"	"Total"	"Total"	"46,392,080"	NA	3
+"540"	2020	"Spain"	"Total"	"Total"	"45,828,101"	NA	3
+"541"	2025	"Spain"	"Total"	"Total"	"45,125,728"	NA	3
+"542"	2030	"Spain"	"Total"	"Total"	"44,701,432"	NA	3
+"543"	2035	"Spain"	"Total"	"Total"	"44,666,548"	NA	3
+"544"	2040	"Spain"	"Total"	"Total"	"45,012,359"	NA	3
+"545"	2045	"Spain"	"Total"	"Total"	"45,609,090"	NA	3
+"546"	2050	"Spain"	"Total"	"Total"	"46,243,624"	NA	3
+"547"	2055	"Spain"	"Total"	"Total"	"46,793,264"	NA	3
+"548"	2060	"Spain"	"Total"	"Total"	"47,154,599"	NA	3
+"549"	2015	"France"	"Total"	"Total"	"66,178,288"	NA	3
+"550"	2020	"France"	"Total"	"Total"	"67,707,242"	NA	3
+"551"	2025	"France"	"Total"	"Total"	"69,171,169"	NA	3
+"552"	2030	"France"	"Total"	"Total"	"70,652,215"	NA	3
+"553"	2035	"France"	"Total"	"Total"	"72,086,716"	NA	3
+"554"	2040	"France"	"Total"	"Total"	"73,356,107"	NA	3
+"555"	2045	"France"	"Total"	"Total"	"74,394,557"	NA	3
+"556"	2050	"France"	"Total"	"Total"	"75,279,759"	NA	3
+"557"	2055	"France"	"Total"	"Total"	"76,113,329"	NA	3
+"558"	2060	"France"	"Total"	"Total"	"76,952,728"	NA	3
+"559"	2015	"Croatia"	"Total"	"Total"	"4,245,210"	NA	3
+"560"	2020	"Croatia"	"Total"	"Total"	"4,202,919"	NA	3
+"561"	2025	"Croatia"	"Total"	"Total"	"4,156,367"	NA	3
+"562"	2030	"Croatia"	"Total"	"Total"	"4,107,158"	NA	3
+"563"	2035	"Croatia"	"Total"	"Total"	"4,054,962"	NA	3
+"564"	2040	"Croatia"	"Total"	"Total"	"4,000,453"	NA	3
+"565"	2045	"Croatia"	"Total"	"Total"	"3,946,940"	NA	3
+"566"	2050	"Croatia"	"Total"	"Total"	"3,895,042"	NA	3
+"567"	2055	"Croatia"	"Total"	"Total"	"3,843,246"	NA	3
+"568"	2060	"Croatia"	"Total"	"Total"	"3,791,429"	NA	3
+"569"	2015	"Italy"	"Total"	"Total"	"60,947,757"	NA	3
+"570"	2020	"Italy"	"Total"	"Total"	"62,013,411"	NA	3
+"571"	2025	"Italy"	"Total"	"Total"	"63,156,391"	NA	3
+"572"	2030	"Italy"	"Total"	"Total"	"64,385,821"	NA	3
+"573"	2035	"Italy"	"Total"	"Total"	"65,647,773"	NA	3
+"574"	2040	"Italy"	"Total"	"Total"	"66,803,533"	NA	3
+"575"	2045	"Italy"	"Total"	"Total"	"67,663,537"	NA	3
+"576"	2050	"Italy"	"Total"	"Total"	"68,057,688"	NA	3
+"577"	2055	"Italy"	"Total"	"Total"	"68,027,864"	NA	3
+"578"	2060	"Italy"	"Total"	"Total"	"67,797,202"	NA	3
+"579"	2015	"Cyprus"	"Total"	"Total"	"873,025"	NA	3
+"580"	2020	"Cyprus"	"Total"	"Total"	"891,486"	NA	3
+"581"	2025	"Cyprus"	"Total"	"Total"	"907,281"	NA	3
+"582"	2030	"Cyprus"	"Total"	"Total"	"924,024"	NA	3
+"583"	2035	"Cyprus"	"Total"	"Total"	"943,692"	NA	3
+"584"	2040	"Cyprus"	"Total"	"Total"	"970,008"	NA	3
+"585"	2045	"Cyprus"	"Total"	"Total"	"1,004,898"	NA	3
+"586"	2050	"Cyprus"	"Total"	"Total"	"1,048,075"	NA	3
+"587"	2055	"Cyprus"	"Total"	"Total"	"1,094,624"	NA	3
+"588"	2060	"Cyprus"	"Total"	"Total"	"1,138,176"	NA	3
+"589"	2015	"Latvia"	"Total"	"Total"	"1,986,000"	NA	3
+"590"	2020	"Latvia"	"Total"	"Total"	"1,882,099"	NA	3
+"591"	2025	"Latvia"	"Total"	"Total"	"1,760,809"	NA	3
+"592"	2030	"Latvia"	"Total"	"Total"	"1,644,130"	NA	3
+"593"	2035	"Latvia"	"Total"	"Total"	"1,565,329"	NA	3
+"594"	2040	"Latvia"	"Total"	"Total"	"1,531,493"	NA	3
+"595"	2045	"Latvia"	"Total"	"Total"	"1,505,179"	NA	3
+"596"	2050	"Latvia"	"Total"	"Total"	"1,481,199"	NA	3
+"597"	2055	"Latvia"	"Total"	"Total"	"1,457,042"	NA	3
+"598"	2060	"Latvia"	"Total"	"Total"	"1,432,622"	NA	3
+"599"	2015	"Lithuania"	"Total"	"Total"	"2,901,195"	NA	3
+"600"	2020	"Lithuania"	"Total"	"Total"	"2,673,898"	NA	3
+"601"	2025	"Lithuania"	"Total"	"Total"	"2,432,711"	NA	3
+"602"	2030	"Lithuania"	"Total"	"Total"	"2,214,971"	NA	3
+"603"	2035	"Lithuania"	"Total"	"Total"	"2,076,156"	NA	3
+"604"	2040	"Lithuania"	"Total"	"Total"	"2,022,281"	NA	3
+"605"	2045	"Lithuania"	"Total"	"Total"	"1,982,410"	NA	3
+"606"	2050	"Lithuania"	"Total"	"Total"	"1,947,821"	NA	3
+"607"	2055	"Lithuania"	"Total"	"Total"	"1,912,896"	NA	3
+"608"	2060	"Lithuania"	"Total"	"Total"	"1,880,543"	NA	3
+"609"	2015	"Luxembourg"	"Total"	"Total"	"562,866"	NA	3
+"610"	2020	"Luxembourg"	"Total"	"Total"	"632,864"	NA	3
+"611"	2025	"Luxembourg"	"Total"	"Total"	"708,783"	NA	3
+"612"	2030	"Luxembourg"	"Total"	"Total"	"787,159"	NA	3
+"613"	2035	"Luxembourg"	"Total"	"Total"	"864,708"	NA	3
+"614"	2040	"Luxembourg"	"Total"	"Total"	"938,046"	NA	3
+"615"	2045	"Luxembourg"	"Total"	"Total"	"1,004,414"	NA	3
+"616"	2050	"Luxembourg"	"Total"	"Total"	"1,061,046"	NA	3
+"617"	2055	"Luxembourg"	"Total"	"Total"	"1,109,428"	NA	3
+"618"	2060	"Luxembourg"	"Total"	"Total"	"1,155,152"	NA	3
+"619"	2015	"Hungary"	"Total"	"Total"	"9,863,705"	NA	3
+"620"	2020	"Hungary"	"Total"	"Total"	"9,808,977"	NA	3
+"621"	2025	"Hungary"	"Total"	"Total"	"9,770,865"	NA	3
+"622"	2030	"Hungary"	"Total"	"Total"	"9,726,616"	NA	3
+"623"	2035	"Hungary"	"Total"	"Total"	"9,675,141"	NA	3
+"624"	2040	"Hungary"	"Total"	"Total"	"9,621,375"	NA	3
+"625"	2045	"Hungary"	"Total"	"Total"	"9,570,968"	NA	3
+"626"	2050	"Hungary"	"Total"	"Total"	"9,505,700"	NA	3
+"627"	2055	"Hungary"	"Total"	"Total"	"9,441,509"	NA	3
+"628"	2060	"Hungary"	"Total"	"Total"	"9,375,490"	NA	3
+"629"	2015	"Malta"	"Total"	"Total"	"426,168"	NA	3
+"630"	2020	"Malta"	"Total"	"Total"	"438,455"	NA	3
+"631"	2025	"Malta"	"Total"	"Total"	"449,625"	NA	3
+"632"	2030	"Malta"	"Total"	"Total"	"458,002"	NA	3
+"633"	2035	"Malta"	"Total"	"Total"	"463,412"	NA	3
+"634"	2040	"Malta"	"Total"	"Total"	"466,982"	NA	3
+"635"	2045	"Malta"	"Total"	"Total"	"470,425"	NA	3
+"636"	2050	"Malta"	"Total"	"Total"	"474,759"	NA	3
+"637"	2055	"Malta"	"Total"	"Total"	"479,819"	NA	3
+"638"	2060	"Malta"	"Total"	"Total"	"484,881"	NA	3
+"639"	2015	"Netherlands"	"Total"	"Total"	"16,877,554"	NA	3
+"640"	2020	"Netherlands"	"Total"	"Total"	"17,144,536"	NA	3
+"641"	2025	"Netherlands"	"Total"	"Total"	"17,406,115"	NA	3
+"642"	2030	"Netherlands"	"Total"	"Total"	"17,626,311"	NA	3
+"643"	2035	"Netherlands"	"Total"	"Total"	"17,771,931"	NA	3
+"644"	2040	"Netherlands"	"Total"	"Total"	"17,814,804"	NA	3
+"645"	2045	"Netherlands"	"Total"	"Total"	"17,762,265"	NA	3
+"646"	2050	"Netherlands"	"Total"	"Total"	"17,662,283"	NA	3
+"647"	2055	"Netherlands"	"Total"	"Total"	"17,548,583"	NA	3
+"648"	2060	"Netherlands"	"Total"	"Total"	"17,442,209"	NA	3
+"649"	2015	"Austria"	"Total"	"Total"	"8,551,434"	NA	3
+"650"	2020	"Austria"	"Total"	"Total"	"8,800,615"	NA	3
+"651"	2025	"Austria"	"Total"	"Total"	"9,062,422"	NA	3
+"652"	2030	"Austria"	"Total"	"Total"	"9,308,596"	NA	3
+"653"	2035	"Austria"	"Total"	"Total"	"9,518,785"	NA	3
+"654"	2040	"Austria"	"Total"	"Total"	"9,688,133"	NA	3
+"655"	2045	"Austria"	"Total"	"Total"	"9,816,018"	NA	3
+"656"	2050	"Austria"	"Total"	"Total"	"9,888,958"	NA	3
+"657"	2055	"Austria"	"Total"	"Total"	"9,907,179"	NA	3
+"658"	2060	"Austria"	"Total"	"Total"	"9,901,212"	NA	3
+"659"	2015	"Poland"	"Total"	"Total"	"38,501,509"	NA	3
+"660"	2020	"Poland"	"Total"	"Total"	"38,420,463"	NA	3
+"661"	2025	"Poland"	"Total"	"Total"	"38,147,028"	NA	3
+"662"	2030	"Poland"	"Total"	"Total"	"37,686,010"	NA	3
+"663"	2035	"Poland"	"Total"	"Total"	"37,144,828"	NA	3
+"664"	2040	"Poland"	"Total"	"Total"	"36,606,733"	NA	3
+"665"	2045	"Poland"	"Total"	"Total"	"36,039,345"	NA	3
+"666"	2050	"Poland"	"Total"	"Total"	"35,431,602"	NA	3
+"667"	2055	"Poland"	"Total"	"Total"	"34,771,828"	NA	3
+"668"	2060	"Poland"	"Total"	"Total"	"34,072,385"	NA	3
+"669"	2015	"Portugal"	"Total"	"Total"	"10,368,006"	NA	3
+"670"	2020	"Portugal"	"Total"	"Total"	"10,148,559"	NA	3
+"671"	2025	"Portugal"	"Total"	"Total"	"9,980,063"	NA	3
+"672"	2030	"Portugal"	"Total"	"Total"	"9,821,989"	NA	3
+"673"	2035	"Portugal"	"Total"	"Total"	"9,660,666"	NA	3
+"674"	2040	"Portugal"	"Total"	"Total"	"9,482,822"	NA	3
+"675"	2045	"Portugal"	"Total"	"Total"	"9,272,745"	NA	3
+"676"	2050	"Portugal"	"Total"	"Total"	"9,020,591"	NA	3
+"677"	2055	"Portugal"	"Total"	"Total"	"8,737,977"	NA	3
+"678"	2060	"Portugal"	"Total"	"Total"	"8,446,494"	NA	3
+"679"	2015	"Romania"	"Total"	"Total"	"19,910,333"	NA	3
+"680"	2020	"Romania"	"Total"	"Total"	"19,705,178"	NA	3
+"681"	2025	"Romania"	"Total"	"Total"	"19,440,839"	NA	3
+"682"	2030	"Romania"	"Total"	"Total"	"19,095,350"	NA	3
+"683"	2035	"Romania"	"Total"	"Total"	"18,831,548"	NA	3
+"684"	2040	"Romania"	"Total"	"Total"	"18,653,089"	NA	3
+"685"	2045	"Romania"	"Total"	"Total"	"18,473,211"	NA	3
+"686"	2050	"Romania"	"Total"	"Total"	"18,277,442"	NA	3
+"687"	2055	"Romania"	"Total"	"Total"	"18,086,914"	NA	3
+"688"	2060	"Romania"	"Total"	"Total"	"17,852,936"	NA	3
+"689"	2015	"Slovenia"	"Total"	"Total"	"2,066,584"	NA	3
+"690"	2020	"Slovenia"	"Total"	"Total"	"2,088,434"	NA	3
+"691"	2025	"Slovenia"	"Total"	"Total"	"2,096,506"	NA	3
+"692"	2030	"Slovenia"	"Total"	"Total"	"2,096,652"	NA	3
+"693"	2035	"Slovenia"	"Total"	"Total"	"2,096,286"	NA	3
+"694"	2040	"Slovenia"	"Total"	"Total"	"2,098,988"	NA	3
+"695"	2045	"Slovenia"	"Total"	"Total"	"2,103,699"	NA	3
+"696"	2050	"Slovenia"	"Total"	"Total"	"2,104,030"	NA	3
+"697"	2055	"Slovenia"	"Total"	"Total"	"2,097,659"	NA	3
+"698"	2060	"Slovenia"	"Total"	"Total"	"2,086,684"	NA	3
+"699"	2015	"Slovakia"	"Total"	"Total"	"5,417,058"	NA	3
+"700"	2020	"Slovakia"	"Total"	"Total"	"5,418,503"	NA	3
+"701"	2025	"Slovakia"	"Total"	"Total"	"5,393,344"	NA	3
+"702"	2030	"Slovakia"	"Total"	"Total"	"5,336,188"	NA	3
+"703"	2035	"Slovakia"	"Total"	"Total"	"5,255,056"	NA	3
+"704"	2040	"Slovakia"	"Total"	"Total"	"5,163,564"	NA	3
+"705"	2045	"Slovakia"	"Total"	"Total"	"5,065,949"	NA	3
+"706"	2050	"Slovakia"	"Total"	"Total"	"4,954,637"	NA	3
+"707"	2055	"Slovakia"	"Total"	"Total"	"4,829,968"	NA	3
+"708"	2060	"Slovakia"	"Total"	"Total"	"4,691,275"	NA	3
+"709"	2015	"Finland"	"Total"	"Total"	"5,478,722"	NA	3
+"710"	2020	"Finland"	"Total"	"Total"	"5,623,236"	NA	3
+"711"	2025	"Finland"	"Total"	"Total"	"5,769,877"	NA	3
+"712"	2030	"Finland"	"Total"	"Total"	"5,905,010"	NA	3
+"713"	2035	"Finland"	"Total"	"Total"	"6,019,615"	NA	3
+"714"	2040	"Finland"	"Total"	"Total"	"6,112,679"	NA	3
+"715"	2045	"Finland"	"Total"	"Total"	"6,187,479"	NA	3
+"716"	2050	"Finland"	"Total"	"Total"	"6,247,149"	NA	3
+"717"	2055	"Finland"	"Total"	"Total"	"6,298,395"	NA	3
+"718"	2060	"Finland"	"Total"	"Total"	"6,354,186"	NA	3
+"719"	2015	"Sweden"	"Total"	"Total"	"9,722,052"	NA	3
+"720"	2020	"Sweden"	"Total"	"Total"	"10,145,620"	NA	3
+"721"	2025	"Sweden"	"Total"	"Total"	"10,602,932"	NA	3
+"722"	2030	"Sweden"	"Total"	"Total"	"11,038,674"	NA	3
+"723"	2035	"Sweden"	"Total"	"Total"	"11,440,112"	NA	3
+"724"	2040	"Sweden"	"Total"	"Total"	"11,829,258"	NA	3
+"725"	2045	"Sweden"	"Total"	"Total"	"12,217,688"	NA	3
+"726"	2050	"Sweden"	"Total"	"Total"	"12,593,086"	NA	3
+"727"	2055	"Sweden"	"Total"	"Total"	"12,941,236"	NA	3
+"728"	2060	"Sweden"	"Total"	"Total"	"13,265,541"	NA	3
+"729"	2015	"United Kingdom"	"Total"	"Total"	"64,645,847"	NA	3
+"730"	2020	"United Kingdom"	"Total"	"Total"	"66,739,678"	NA	3
+"731"	2025	"United Kingdom"	"Total"	"Total"	"68,782,697"	NA	3
+"732"	2030	"United Kingdom"	"Total"	"Total"	"70,722,511"	NA	3
+"733"	2035	"United Kingdom"	"Total"	"Total"	"72,569,451"	NA	3
+"734"	2040	"United Kingdom"	"Total"	"Total"	"74,417,754"	NA	3
+"735"	2045	"United Kingdom"	"Total"	"Total"	"76,304,106"	NA	3
+"736"	2050	"United Kingdom"	"Total"	"Total"	"78,141,319"	NA	3
+"737"	2055	"United Kingdom"	"Total"	"Total"	"79,819,710"	NA	3
+"738"	2060	"United Kingdom"	"Total"	"Total"	"81,335,636"	NA	3
+"739"	2015	"Iceland"	"Total"	"Total"	"328,580"	NA	3
+"740"	2020	"Iceland"	"Total"	"Total"	"342,139"	NA	3
+"741"	2025	"Iceland"	"Total"	"Total"	"355,110"	NA	3
+"742"	2030	"Iceland"	"Total"	"Total"	"367,539"	NA	3
+"743"	2035	"Iceland"	"Total"	"Total"	"379,440"	NA	3
+"744"	2040	"Iceland"	"Total"	"Total"	"391,038"	NA	3
+"745"	2045	"Iceland"	"Total"	"Total"	"402,319"	NA	3
+"746"	2050	"Iceland"	"Total"	"Total"	"413,377"	NA	3
+"747"	2055	"Iceland"	"Total"	"Total"	"424,157"	NA	3
+"748"	2060	"Iceland"	"Total"	"Total"	"434,683"	NA	3
+"749"	2015	"Norway"	"Total"	"Total"	"5,177,382"	NA	3
+"750"	2020	"Norway"	"Total"	"Total"	"5,551,024"	NA	3
+"751"	2025	"Norway"	"Total"	"Total"	"5,964,613"	NA	3
+"752"	2030	"Norway"	"Total"	"Total"	"6,383,776"	NA	3
+"753"	2035	"Norway"	"Total"	"Total"	"6,784,713"	NA	3
+"754"	2040	"Norway"	"Total"	"Total"	"7,154,123"	NA	3
+"755"	2045	"Norway"	"Total"	"Total"	"7,485,698"	NA	3
+"756"	2050	"Norway"	"Total"	"Total"	"7,772,455"	NA	3
+"757"	2055	"Norway"	"Total"	"Total"	"8,021,878"	NA	3
+"758"	2060	"Norway"	"Total"	"Total"	"8,256,930"	NA	3
+"759"	2015	"Switzerland"	"Total"	"Total"	"8,224,199"	NA	3
+"760"	2020	"Switzerland"	"Total"	"Total"	"8,675,443"	NA	3
+"761"	2025	"Switzerland"	"Total"	"Total"	"9,138,421"	NA	3
+"762"	2030	"Switzerland"	"Total"	"Total"	"9,588,083"	NA	3
+"763"	2035	"Switzerland"	"Total"	"Total"	"10,007,051"	NA	3
+"764"	2040	"Switzerland"	"Total"	"Total"	"10,388,620"	NA	3
+"765"	2045	"Switzerland"	"Total"	"Total"	"10,730,248"	NA	3
+"766"	2050	"Switzerland"	"Total"	"Total"	"11,017,982"	NA	3
+"767"	2055	"Switzerland"	"Total"	"Total"	"11,249,249"	NA	3
+"768"	2060	"Switzerland"	"Total"	"Total"	"11,449,966"	NA	3
+"769"	2015	"European Union (28 countries)"	"Total"	"Total"	"508,201,535"	NA	4
+"770"	2020	"European Union (28 countries)"	"Total"	"Total"	"512,018,934"	NA	4
+"771"	2025	"European Union (28 countries)"	"Total"	"Total"	"514,349,343"	NA	4
+"772"	2030	"European Union (28 countries)"	"Total"	"Total"	"515,646,362"	NA	4
+"773"	2035	"European Union (28 countries)"	"Total"	"Total"	"516,301,828"	NA	4
+"774"	2040	"European Union (28 countries)"	"Total"	"Total"	"516,144,576"	NA	4
+"775"	2045	"European Union (28 countries)"	"Total"	"Total"	"514,502,970"	NA	4
+"776"	2050	"European Union (28 countries)"	"Total"	"Total"	"510,825,755"	NA	4
+"777"	2055	"European Union (28 countries)"	"Total"	"Total"	"505,076,032"	NA	4
+"778"	2060	"European Union (28 countries)"	"Total"	"Total"	"497,707,180"	NA	4
+"779"	2015	"Belgium"	"Total"	"Total"	"11,336,389"	NA	4
+"780"	2020	"Belgium"	"Total"	"Total"	"11,812,217"	NA	4
+"781"	2025	"Belgium"	"Total"	"Total"	"12,310,698"	NA	4
+"782"	2030	"Belgium"	"Total"	"Total"	"12,804,091"	NA	4
+"783"	2035	"Belgium"	"Total"	"Total"	"13,273,003"	NA	4
+"784"	2040	"Belgium"	"Total"	"Total"	"13,696,483"	NA	4
+"785"	2045	"Belgium"	"Total"	"Total"	"14,047,660"	NA	4
+"786"	2050	"Belgium"	"Total"	"Total"	"14,303,313"	NA	4
+"787"	2055	"Belgium"	"Total"	"Total"	"14,472,509"	NA	4
+"788"	2060	"Belgium"	"Total"	"Total"	"14,597,030"	NA	4
+"789"	2015	"Bulgaria"	"Total"	"Total"	"7,199,646"	NA	4
+"790"	2020	"Bulgaria"	"Total"	"Total"	"6,969,523"	NA	4
+"791"	2025	"Bulgaria"	"Total"	"Total"	"6,713,544"	NA	4
+"792"	2030	"Bulgaria"	"Total"	"Total"	"6,446,010"	NA	4
+"793"	2035	"Bulgaria"	"Total"	"Total"	"6,204,995"	NA	4
+"794"	2040	"Bulgaria"	"Total"	"Total"	"6,004,849"	NA	4
+"795"	2045	"Bulgaria"	"Total"	"Total"	"5,813,547"	NA	4
+"796"	2050	"Bulgaria"	"Total"	"Total"	"5,619,167"	NA	4
+"797"	2055	"Bulgaria"	"Total"	"Total"	"5,419,823"	NA	4
+"798"	2060	"Bulgaria"	"Total"	"Total"	"5,205,735"	NA	4
+"799"	2015	"Czech Republic"	"Total"	"Total"	"10,535,575"	NA	4
+"800"	2020	"Czech Republic"	"Total"	"Total"	"10,635,337"	NA	4
+"801"	2025	"Czech Republic"	"Total"	"Total"	"10,696,709"	NA	4
+"802"	2030	"Czech Republic"	"Total"	"Total"	"10,720,747"	NA	4
+"803"	2035	"Czech Republic"	"Total"	"Total"	"10,726,741"	NA	4
+"804"	2040	"Czech Republic"	"Total"	"Total"	"10,752,039"	NA	4
+"805"	2045	"Czech Republic"	"Total"	"Total"	"10,780,223"	NA	4
+"806"	2050	"Czech Republic"	"Total"	"Total"	"10,757,224"	NA	4
+"807"	2055	"Czech Republic"	"Total"	"Total"	"10,675,114"	NA	4
+"808"	2060	"Czech Republic"	"Total"	"Total"	"10,539,944"	NA	4
+"809"	2015	"Denmark"	"Total"	"Total"	"5,649,335"	NA	4
+"810"	2020	"Denmark"	"Total"	"Total"	"5,768,346"	NA	4
+"811"	2025	"Denmark"	"Total"	"Total"	"5,897,364"	NA	4
+"812"	2030	"Denmark"	"Total"	"Total"	"6,017,394"	NA	4
+"813"	2035	"Denmark"	"Total"	"Total"	"6,112,186"	NA	4
+"814"	2040	"Denmark"	"Total"	"Total"	"6,175,021"	NA	4
+"815"	2045	"Denmark"	"Total"	"Total"	"6,209,307"	NA	4
+"816"	2050	"Denmark"	"Total"	"Total"	"6,218,950"	NA	4
+"817"	2055	"Denmark"	"Total"	"Total"	"6,209,725"	NA	4
+"818"	2060	"Denmark"	"Total"	"Total"	"6,191,046"	NA	4
+"819"	2015	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"80,706,228"	NA	4
+"820"	2020	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"80,577,370"	NA	4
+"821"	2025	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"80,138,506"	NA	4
+"822"	2030	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"79,380,249"	NA	4
+"823"	2035	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"78,314,473"	NA	4
+"824"	2040	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"76,865,776"	NA	4
+"825"	2045	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"75,052,415"	NA	4
+"826"	2050	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"72,904,964"	NA	4
+"827"	2055	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"70,483,722"	NA	4
+"828"	2060	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"67,955,154"	NA	4
+"829"	2015	"Estonia"	"Total"	"Total"	"1,311,445"	NA	4
+"830"	2020	"Estonia"	"Total"	"Total"	"1,283,260"	NA	4
+"831"	2025	"Estonia"	"Total"	"Total"	"1,243,713"	NA	4
+"832"	2030	"Estonia"	"Total"	"Total"	"1,201,530"	NA	4
+"833"	2035	"Estonia"	"Total"	"Total"	"1,167,631"	NA	4
+"834"	2040	"Estonia"	"Total"	"Total"	"1,145,134"	NA	4
+"835"	2045	"Estonia"	"Total"	"Total"	"1,122,658"	NA	4
+"836"	2050	"Estonia"	"Total"	"Total"	"1,097,293"	NA	4
+"837"	2055	"Estonia"	"Total"	"Total"	"1,068,629"	NA	4
+"838"	2060	"Estonia"	"Total"	"Total"	"1,036,135"	NA	4
+"839"	2015	"Ireland"	"Total"	"Total"	"4,602,560"	NA	4
+"840"	2020	"Ireland"	"Total"	"Total"	"4,604,647"	NA	4
+"841"	2025	"Ireland"	"Total"	"Total"	"4,560,649"	NA	4
+"842"	2030	"Ireland"	"Total"	"Total"	"4,526,888"	NA	4
+"843"	2035	"Ireland"	"Total"	"Total"	"4,538,223"	NA	4
+"844"	2040	"Ireland"	"Total"	"Total"	"4,598,979"	NA	4
+"845"	2045	"Ireland"	"Total"	"Total"	"4,691,903"	NA	4
+"846"	2050	"Ireland"	"Total"	"Total"	"4,793,954"	NA	4
+"847"	2055	"Ireland"	"Total"	"Total"	"4,881,645"	NA	4
+"848"	2060	"Ireland"	"Total"	"Total"	"4,943,007"	NA	4
+"849"	2015	"Greece"	"Total"	"Total"	"10,977,538"	NA	4
+"850"	2020	"Greece"	"Total"	"Total"	"10,695,486"	NA	4
+"851"	2025	"Greece"	"Total"	"Total"	"10,366,900"	NA	4
+"852"	2030	"Greece"	"Total"	"Total"	"10,044,018"	NA	4
+"853"	2035	"Greece"	"Total"	"Total"	"9,751,344"	NA	4
+"854"	2040	"Greece"	"Total"	"Total"	"9,477,730"	NA	4
+"855"	2045	"Greece"	"Total"	"Total"	"9,204,802"	NA	4
+"856"	2050	"Greece"	"Total"	"Total"	"8,911,805"	NA	4
+"857"	2055	"Greece"	"Total"	"Total"	"8,582,126"	NA	4
+"858"	2060	"Greece"	"Total"	"Total"	"8,222,630"	NA	4
+"859"	2015	"Spain"	"Total"	"Total"	"46,388,462"	NA	4
+"860"	2020	"Spain"	"Total"	"Total"	"45,760,016"	NA	4
+"861"	2025	"Spain"	"Total"	"Total"	"44,933,031"	NA	4
+"862"	2030	"Spain"	"Total"	"Total"	"44,334,369"	NA	4
+"863"	2035	"Spain"	"Total"	"Total"	"44,067,447"	NA	4
+"864"	2040	"Spain"	"Total"	"Total"	"44,110,009"	NA	4
+"865"	2045	"Spain"	"Total"	"Total"	"44,330,552"	NA	4
+"866"	2050	"Spain"	"Total"	"Total"	"44,520,503"	NA	4
+"867"	2055	"Spain"	"Total"	"Total"	"44,559,726"	NA	4
+"868"	2060	"Spain"	"Total"	"Total"	"44,349,623"	NA	4
+"869"	2015	"France"	"Total"	"Total"	"66,172,283"	NA	4
+"870"	2020	"France"	"Total"	"Total"	"67,586,635"	NA	4
+"871"	2025	"France"	"Total"	"Total"	"68,807,144"	NA	4
+"872"	2030	"France"	"Total"	"Total"	"69,922,639"	NA	4
+"873"	2035	"France"	"Total"	"Total"	"70,866,404"	NA	4
+"874"	2040	"France"	"Total"	"Total"	"71,515,301"	NA	4
+"875"	2045	"France"	"Total"	"Total"	"71,805,944"	NA	4
+"876"	2050	"France"	"Total"	"Total"	"71,815,587"	NA	4
+"877"	2055	"France"	"Total"	"Total"	"71,627,853"	NA	4
+"878"	2060	"France"	"Total"	"Total"	"71,290,014"	NA	4
+"879"	2015	"Croatia"	"Total"	"Total"	"4,244,818"	NA	4
+"880"	2020	"Croatia"	"Total"	"Total"	"4,195,266"	NA	4
+"881"	2025	"Croatia"	"Total"	"Total"	"4,134,292"	NA	4
+"882"	2030	"Croatia"	"Total"	"Total"	"4,065,121"	NA	4
+"883"	2035	"Croatia"	"Total"	"Total"	"3,988,118"	NA	4
+"884"	2040	"Croatia"	"Total"	"Total"	"3,903,768"	NA	4
+"885"	2045	"Croatia"	"Total"	"Total"	"3,815,333"	NA	4
+"886"	2050	"Croatia"	"Total"	"Total"	"3,724,105"	NA	4
+"887"	2055	"Croatia"	"Total"	"Total"	"3,628,949"	NA	4
+"888"	2060	"Croatia"	"Total"	"Total"	"3,529,549"	NA	4
+"889"	2015	"Italy"	"Total"	"Total"	"60,942,697"	NA	4
+"890"	2020	"Italy"	"Total"	"Total"	"61,914,840"	NA	4
+"891"	2025	"Italy"	"Total"	"Total"	"62,864,774"	NA	4
+"892"	2030	"Italy"	"Total"	"Total"	"63,811,273"	NA	4
+"893"	2035	"Italy"	"Total"	"Total"	"64,701,514"	NA	4
+"894"	2040	"Italy"	"Total"	"Total"	"65,392,602"	NA	4
+"895"	2045	"Italy"	"Total"	"Total"	"65,690,972"	NA	4
+"896"	2050	"Italy"	"Total"	"Total"	"65,424,986"	NA	4
+"897"	2055	"Italy"	"Total"	"Total"	"64,635,483"	NA	4
+"898"	2060	"Italy"	"Total"	"Total"	"63,558,921"	NA	4
+"899"	2015	"Cyprus"	"Total"	"Total"	"872,959"	NA	4
+"900"	2020	"Cyprus"	"Total"	"Total"	"890,086"	NA	4
+"901"	2025	"Cyprus"	"Total"	"Total"	"903,117"	NA	4
+"902"	2030	"Cyprus"	"Total"	"Total"	"915,886"	NA	4
+"903"	2035	"Cyprus"	"Total"	"Total"	"930,395"	NA	4
+"904"	2040	"Cyprus"	"Total"	"Total"	"950,079"	NA	4
+"905"	2045	"Cyprus"	"Total"	"Total"	"976,465"	NA	4
+"906"	2050	"Cyprus"	"Total"	"Total"	"1,009,032"	NA	4
+"907"	2055	"Cyprus"	"Total"	"Total"	"1,042,813"	NA	4
+"908"	2060	"Cyprus"	"Total"	"Total"	"1,071,624"	NA	4
+"909"	2015	"Latvia"	"Total"	"Total"	"1,985,801"	NA	4
+"910"	2020	"Latvia"	"Total"	"Total"	"1,878,393"	NA	4
+"911"	2025	"Latvia"	"Total"	"Total"	"1,750,590"	NA	4
+"912"	2030	"Latvia"	"Total"	"Total"	"1,625,682"	NA	4
+"913"	2035	"Latvia"	"Total"	"Total"	"1,537,203"	NA	4
+"914"	2040	"Latvia"	"Total"	"Total"	"1,491,462"	NA	4
+"915"	2045	"Latvia"	"Total"	"Total"	"1,450,587"	NA	4
+"916"	2050	"Latvia"	"Total"	"Total"	"1,410,000"	NA	4
+"917"	2055	"Latvia"	"Total"	"Total"	"1,367,978"	NA	4
+"918"	2060	"Latvia"	"Total"	"Total"	"1,324,566"	NA	4
+"919"	2015	"Lithuania"	"Total"	"Total"	"2,900,911"	NA	4
+"920"	2020	"Lithuania"	"Total"	"Total"	"2,668,575"	NA	4
+"921"	2025	"Lithuania"	"Total"	"Total"	"2,418,076"	NA	4
+"922"	2030	"Lithuania"	"Total"	"Total"	"2,189,032"	NA	4
+"923"	2035	"Lithuania"	"Total"	"Total"	"2,037,638"	NA	4
+"924"	2040	"Lithuania"	"Total"	"Total"	"1,968,219"	NA	4
+"925"	2045	"Lithuania"	"Total"	"Total"	"1,908,563"	NA	4
+"926"	2050	"Lithuania"	"Total"	"Total"	"1,850,645"	NA	4
+"927"	2055	"Lithuania"	"Total"	"Total"	"1,790,788"	NA	4
+"928"	2060	"Lithuania"	"Total"	"Total"	"1,733,168"	NA	4
+"929"	2015	"Luxembourg"	"Total"	"Total"	"562,821"	NA	4
+"930"	2020	"Luxembourg"	"Total"	"Total"	"631,911"	NA	4
+"931"	2025	"Luxembourg"	"Total"	"Total"	"705,643"	NA	4
+"932"	2030	"Luxembourg"	"Total"	"Total"	"780,346"	NA	4
+"933"	2035	"Luxembourg"	"Total"	"Total"	"852,580"	NA	4
+"934"	2040	"Luxembourg"	"Total"	"Total"	"918,763"	NA	4
+"935"	2045	"Luxembourg"	"Total"	"Total"	"975,925"	NA	4
+"936"	2050	"Luxembourg"	"Total"	"Total"	"1,021,081"	NA	4
+"937"	2055	"Luxembourg"	"Total"	"Total"	"1,055,576"	NA	4
+"938"	2060	"Luxembourg"	"Total"	"Total"	"1,084,964"	NA	4
+"939"	2015	"Hungary"	"Total"	"Total"	"9,862,809"	NA	4
+"940"	2020	"Hungary"	"Total"	"Total"	"9,791,737"	NA	4
+"941"	2025	"Hungary"	"Total"	"Total"	"9,719,955"	NA	4
+"942"	2030	"Hungary"	"Total"	"Total"	"9,627,469"	NA	4
+"943"	2035	"Hungary"	"Total"	"Total"	"9,515,123"	NA	4
+"944"	2040	"Hungary"	"Total"	"Total"	"9,388,477"	NA	4
+"945"	2045	"Hungary"	"Total"	"Total"	"9,253,706"	NA	4
+"946"	2050	"Hungary"	"Total"	"Total"	"9,092,366"	NA	4
+"947"	2055	"Hungary"	"Total"	"Total"	"8,918,255"	NA	4
+"948"	2060	"Hungary"	"Total"	"Total"	"8,725,960"	NA	4
+"949"	2015	"Malta"	"Total"	"Total"	"426,126"	NA	4
+"950"	2020	"Malta"	"Total"	"Total"	"437,770"	NA	4
+"951"	2025	"Malta"	"Total"	"Total"	"447,464"	NA	4
+"952"	2030	"Malta"	"Total"	"Total"	"453,658"	NA	4
+"953"	2035	"Malta"	"Total"	"Total"	"456,226"	NA	4
+"954"	2040	"Malta"	"Total"	"Total"	"456,325"	NA	4
+"955"	2045	"Malta"	"Total"	"Total"	"455,668"	NA	4
+"956"	2050	"Malta"	"Total"	"Total"	"455,195"	NA	4
+"957"	2055	"Malta"	"Total"	"Total"	"454,664"	NA	4
+"958"	2060	"Malta"	"Total"	"Total"	"453,330"	NA	4
+"959"	2015	"Netherlands"	"Total"	"Total"	"16,876,159"	NA	4
+"960"	2020	"Netherlands"	"Total"	"Total"	"17,116,406"	NA	4
+"961"	2025	"Netherlands"	"Total"	"Total"	"17,319,855"	NA	4
+"962"	2030	"Netherlands"	"Total"	"Total"	"17,452,148"	NA	4
+"963"	2035	"Netherlands"	"Total"	"Total"	"17,481,895"	NA	4
+"964"	2040	"Netherlands"	"Total"	"Total"	"17,384,675"	NA	4
+"965"	2045	"Netherlands"	"Total"	"Total"	"17,170,787"	NA	4
+"966"	2050	"Netherlands"	"Total"	"Total"	"16,884,927"	NA	4
+"967"	2055	"Netherlands"	"Total"	"Total"	"16,556,678"	NA	4
+"968"	2060	"Netherlands"	"Total"	"Total"	"16,210,824"	NA	4
+"969"	2015	"Austria"	"Total"	"Total"	"8,550,737"	NA	4
+"970"	2020	"Austria"	"Total"	"Total"	"8,786,535"	NA	4
+"971"	2025	"Austria"	"Total"	"Total"	"9,019,944"	NA	4
+"972"	2030	"Austria"	"Total"	"Total"	"9,223,982"	NA	4
+"973"	2035	"Austria"	"Total"	"Total"	"9,379,369"	NA	4
+"974"	2040	"Austria"	"Total"	"Total"	"9,481,330"	NA	4
+"975"	2045	"Austria"	"Total"	"Total"	"9,526,653"	NA	4
+"976"	2050	"Austria"	"Total"	"Total"	"9,499,919"	NA	4
+"977"	2055	"Austria"	"Total"	"Total"	"9,403,524"	NA	4
+"978"	2060	"Austria"	"Total"	"Total"	"9,273,112"	NA	4
+"979"	2015	"Poland"	"Total"	"Total"	"38,498,313"	NA	4
+"980"	2020	"Poland"	"Total"	"Total"	"38,357,658"	NA	4
+"981"	2025	"Poland"	"Total"	"Total"	"37,964,910"	NA	4
+"982"	2030	"Poland"	"Total"	"Total"	"37,337,593"	NA	4
+"983"	2035	"Poland"	"Total"	"Total"	"36,583,498"	NA	4
+"984"	2040	"Poland"	"Total"	"Total"	"35,779,617"	NA	4
+"985"	2045	"Poland"	"Total"	"Total"	"34,899,537"	NA	4
+"986"	2050	"Poland"	"Total"	"Total"	"33,947,859"	NA	4
+"987"	2055	"Poland"	"Total"	"Total"	"32,919,514"	NA	4
+"988"	2060	"Poland"	"Total"	"Total"	"31,815,130"	NA	4
+"989"	2015	"Portugal"	"Total"	"Total"	"10,367,193"	NA	4
+"990"	2020	"Portugal"	"Total"	"Total"	"10,133,036"	NA	4
+"991"	2025	"Portugal"	"Total"	"Total"	"9,935,054"	NA	4
+"992"	2030	"Portugal"	"Total"	"Total"	"9,734,955"	NA	4
+"993"	2035	"Portugal"	"Total"	"Total"	"9,520,090"	NA	4
+"994"	2040	"Portugal"	"Total"	"Total"	"9,278,370"	NA	4
+"995"	2045	"Portugal"	"Total"	"Total"	"8,995,610"	NA	4
+"996"	2050	"Portugal"	"Total"	"Total"	"8,662,719"	NA	4
+"997"	2055	"Portugal"	"Total"	"Total"	"8,291,154"	NA	4
+"998"	2060	"Portugal"	"Total"	"Total"	"7,902,882"	NA	4
+"999"	2015	"Romania"	"Total"	"Total"	"19,908,429"	NA	4
+"1000"	2020	"Romania"	"Total"	"Total"	"19,668,545"	NA	4
+"1001"	2025	"Romania"	"Total"	"Total"	"19,334,822"	NA	4
+"1002"	2030	"Romania"	"Total"	"Total"	"18,892,346"	NA	4
+"1003"	2035	"Romania"	"Total"	"Total"	"18,506,510"	NA	4
+"1004"	2040	"Romania"	"Total"	"Total"	"18,178,578"	NA	4
+"1005"	2045	"Romania"	"Total"	"Total"	"17,822,114"	NA	4
+"1006"	2050	"Romania"	"Total"	"Total"	"17,423,971"	NA	4
+"1007"	2055	"Romania"	"Total"	"Total"	"17,003,273"	NA	4
+"1008"	2060	"Romania"	"Total"	"Total"	"16,507,995"	NA	4
+"1009"	2015	"Slovenia"	"Total"	"Total"	"2,066,420"	NA	4
+"1010"	2020	"Slovenia"	"Total"	"Total"	"2,084,965"	NA	4
+"1011"	2025	"Slovenia"	"Total"	"Total"	"2,086,403"	NA	4
+"1012"	2030	"Slovenia"	"Total"	"Total"	"2,077,122"	NA	4
+"1013"	2035	"Slovenia"	"Total"	"Total"	"2,064,410"	NA	4
+"1014"	2040	"Slovenia"	"Total"	"Total"	"2,051,235"	NA	4
+"1015"	2045	"Slovenia"	"Total"	"Total"	"2,036,479"	NA	4
+"1016"	2050	"Slovenia"	"Total"	"Total"	"2,014,591"	NA	4
+"1017"	2055	"Slovenia"	"Total"	"Total"	"1,983,919"	NA	4
+"1018"	2060	"Slovenia"	"Total"	"Total"	"1,946,347"	NA	4
+"1019"	2015	"Slovakia"	"Total"	"Total"	"5,416,631"	NA	4
+"1020"	2020	"Slovakia"	"Total"	"Total"	"5,410,101"	NA	4
+"1021"	2025	"Slovakia"	"Total"	"Total"	"5,368,786"	NA	4
+"1022"	2030	"Slovakia"	"Total"	"Total"	"5,288,703"	NA	4
+"1023"	2035	"Slovakia"	"Total"	"Total"	"5,178,229"	NA	4
+"1024"	2040	"Slovakia"	"Total"	"Total"	"5,050,764"	NA	4
+"1025"	2045	"Slovakia"	"Total"	"Total"	"4,911,401"	NA	4
+"1026"	2050	"Slovakia"	"Total"	"Total"	"4,754,068"	NA	4
+"1027"	2055	"Slovakia"	"Total"	"Total"	"4,579,590"	NA	4
+"1028"	2060	"Slovakia"	"Total"	"Total"	"4,386,506"	NA	4
+"1029"	2015	"Finland"	"Total"	"Total"	"5,478,230"	NA	4
+"1030"	2020	"Finland"	"Total"	"Total"	"5,613,360"	NA	4
+"1031"	2025	"Finland"	"Total"	"Total"	"5,739,785"	NA	4
+"1032"	2030	"Finland"	"Total"	"Total"	"5,844,650"	NA	4
+"1033"	2035	"Finland"	"Total"	"Total"	"5,919,216"	NA	4
+"1034"	2040	"Finland"	"Total"	"Total"	"5,962,746"	NA	4
+"1035"	2045	"Finland"	"Total"	"Total"	"5,979,210"	NA	4
+"1036"	2050	"Finland"	"Total"	"Total"	"5,971,647"	NA	4
+"1037"	2055	"Finland"	"Total"	"Total"	"5,945,236"	NA	4
+"1038"	2060	"Finland"	"Total"	"Total"	"5,912,465"	NA	4
+"1039"	2015	"Sweden"	"Total"	"Total"	"9,721,141"	NA	4
+"1040"	2020	"Sweden"	"Total"	"Total"	"10,127,197"	NA	4
+"1041"	2025	"Sweden"	"Total"	"Total"	"10,546,514"	NA	4
+"1042"	2030	"Sweden"	"Total"	"Total"	"10,925,237"	NA	4
+"1043"	2035	"Sweden"	"Total"	"Total"	"11,250,975"	NA	4
+"1044"	2040	"Sweden"	"Total"	"Total"	"11,544,846"	NA	4
+"1045"	2045	"Sweden"	"Total"	"Total"	"11,816,580"	NA	4
+"1046"	2050	"Sweden"	"Total"	"Total"	"12,049,415"	NA	4
+"1047"	2055	"Sweden"	"Total"	"Total"	"12,226,107"	NA	4
+"1048"	2060	"Sweden"	"Total"	"Total"	"12,352,101"	NA	4
+"1049"	2015	"United Kingdom"	"Total"	"Total"	"64,639,879"	NA	4
+"1050"	2020	"United Kingdom"	"Total"	"Total"	"66,619,716"	NA	4
+"1051"	2025	"United Kingdom"	"Total"	"Total"	"68,421,101"	NA	4
+"1052"	2030	"United Kingdom"	"Total"	"Total"	"70,003,224"	NA	4
+"1053"	2035	"United Kingdom"	"Total"	"Total"	"71,376,392"	NA	4
+"1054"	2040	"United Kingdom"	"Total"	"Total"	"72,621,399"	NA	4
+"1055"	2045	"United Kingdom"	"Total"	"Total"	"73,758,369"	NA	4
+"1056"	2050	"United Kingdom"	"Total"	"Total"	"74,686,469"	NA	4
+"1057"	2055	"United Kingdom"	"Total"	"Total"	"75,291,659"	NA	4
+"1058"	2060	"United Kingdom"	"Total"	"Total"	"75,587,418"	NA	4
+"1059"	2015	"Iceland"	"Total"	"Total"	"328,555"	NA	4
+"1060"	2020	"Iceland"	"Total"	"Total"	"341,547"	NA	4
+"1061"	2025	"Iceland"	"Total"	"Total"	"353,265"	NA	4
+"1062"	2030	"Iceland"	"Total"	"Total"	"363,811"	NA	4
+"1063"	2035	"Iceland"	"Total"	"Total"	"373,148"	NA	4
+"1064"	2040	"Iceland"	"Total"	"Total"	"381,385"	NA	4
+"1065"	2045	"Iceland"	"Total"	"Total"	"388,487"	NA	4
+"1066"	2050	"Iceland"	"Total"	"Total"	"394,464"	NA	4
+"1067"	2055	"Iceland"	"Total"	"Total"	"399,261"	NA	4
+"1068"	2060	"Iceland"	"Total"	"Total"	"402,929"	NA	4
+"1069"	2015	"Norway"	"Total"	"Total"	"5,176,930"	NA	4
+"1070"	2020	"Norway"	"Total"	"Total"	"5,541,692"	NA	4
+"1071"	2025	"Norway"	"Total"	"Total"	"5,935,103"	NA	4
+"1072"	2030	"Norway"	"Total"	"Total"	"6,322,063"	NA	4
+"1073"	2035	"Norway"	"Total"	"Total"	"6,678,184"	NA	4
+"1074"	2040	"Norway"	"Total"	"Total"	"6,989,933"	NA	4
+"1075"	2045	"Norway"	"Total"	"Total"	"7,250,356"	NA	4
+"1076"	2050	"Norway"	"Total"	"Total"	"7,450,273"	NA	4
+"1077"	2055	"Norway"	"Total"	"Total"	"7,595,077"	NA	4
+"1078"	2060	"Norway"	"Total"	"Total"	"7,707,527"	NA	4
+"1079"	2015	"Switzerland"	"Total"	"Total"	"8,223,543"	NA	4
+"1080"	2020	"Switzerland"	"Total"	"Total"	"8,661,965"	NA	4
+"1081"	2025	"Switzerland"	"Total"	"Total"	"9,096,833"	NA	4
+"1082"	2030	"Switzerland"	"Total"	"Total"	"9,503,355"	NA	4
+"1083"	2035	"Switzerland"	"Total"	"Total"	"9,863,846"	NA	4
+"1084"	2040	"Switzerland"	"Total"	"Total"	"10,170,760"	NA	4
+"1085"	2045	"Switzerland"	"Total"	"Total"	"10,419,583"	NA	4
+"1086"	2050	"Switzerland"	"Total"	"Total"	"10,593,764"	NA	4
+"1087"	2055	"Switzerland"	"Total"	"Total"	"10,690,931"	NA	4
+"1088"	2060	"Switzerland"	"Total"	"Total"	"10,740,663"	NA	4
+"1089"	2015	"European Union (28 countries)"	"Total"	"Total"	"507,340,900"	NA	2
+"1090"	2020	"European Union (28 countries)"	"Total"	"Total"	"506,622,170"	NA	2
+"1091"	2025	"European Union (28 countries)"	"Total"	"Total"	"503,766,219"	NA	2
+"1092"	2030	"European Union (28 countries)"	"Total"	"Total"	"498,949,729"	NA	2
+"1093"	2035	"European Union (28 countries)"	"Total"	"Total"	"492,664,193"	NA	2
+"1094"	2040	"European Union (28 countries)"	"Total"	"Total"	"485,218,128"	NA	2
+"1095"	2045	"European Union (28 countries)"	"Total"	"Total"	"476,492,657"	NA	2
+"1096"	2050	"European Union (28 countries)"	"Total"	"Total"	"466,376,747"	NA	2
+"1097"	2055	"European Union (28 countries)"	"Total"	"Total"	"454,969,505"	NA	2
+"1098"	2060	"European Union (28 countries)"	"Total"	"Total"	"442,752,273"	NA	2
+"1099"	2065	"European Union (28 countries)"	"Total"	"Total"	"430,572,319"	NA	2
+"1100"	2070	"European Union (28 countries)"	"Total"	"Total"	"419,144,105"	NA	2
+"1101"	2075	"European Union (28 countries)"	"Total"	"Total"	"408,712,850"	NA	2
+"1102"	2080	"European Union (28 countries)"	"Total"	"Total"	"399,215,880"	NA	2
+"1103"	2015	"Belgium"	"Total"	"Total"	"11,263,805"	NA	2
+"1104"	2020	"Belgium"	"Total"	"Total"	"11,338,862"	NA	2
+"1105"	2025	"Belgium"	"Total"	"Total"	"11,376,603"	NA	2
+"1106"	2030	"Belgium"	"Total"	"Total"	"11,376,509"	NA	2
+"1107"	2035	"Belgium"	"Total"	"Total"	"11,348,298"	NA	2
+"1108"	2040	"Belgium"	"Total"	"Total"	"11,296,515"	NA	2
+"1109"	2045	"Belgium"	"Total"	"Total"	"11,214,169"	NA	2
+"1110"	2050	"Belgium"	"Total"	"Total"	"11,096,965"	NA	2
+"1111"	2055	"Belgium"	"Total"	"Total"	"10,949,211"	NA	2
+"1112"	2060	"Belgium"	"Total"	"Total"	"10,787,036"	NA	2
+"1113"	2065	"Belgium"	"Total"	"Total"	"10,632,180"	NA	2
+"1114"	2070	"Belgium"	"Total"	"Total"	"10,495,430"	NA	2
+"1115"	2075	"Belgium"	"Total"	"Total"	"10,372,304"	NA	2
+"1116"	2080	"Belgium"	"Total"	"Total"	"10,254,226"	NA	2
+"1117"	2015	"Bulgaria"	"Total"	"Total"	"7,203,518"	NA	2
+"1118"	2020	"Bulgaria"	"Total"	"Total"	"7,003,027"	NA	2
+"1119"	2025	"Bulgaria"	"Total"	"Total"	"6,798,475"	NA	2
+"1120"	2030	"Bulgaria"	"Total"	"Total"	"6,589,866"	NA	2
+"1121"	2035	"Bulgaria"	"Total"	"Total"	"6,383,879"	NA	2
+"1122"	2040	"Bulgaria"	"Total"	"Total"	"6,187,323"	NA	2
+"1123"	2045	"Bulgaria"	"Total"	"Total"	"6,000,471"	NA	2
+"1124"	2050	"Bulgaria"	"Total"	"Total"	"5,819,686"	NA	2
+"1125"	2055	"Bulgaria"	"Total"	"Total"	"5,640,341"	NA	2
+"1126"	2060	"Bulgaria"	"Total"	"Total"	"5,459,545"	NA	2
+"1127"	2065	"Bulgaria"	"Total"	"Total"	"5,278,867"	NA	2
+"1128"	2070	"Bulgaria"	"Total"	"Total"	"5,104,295"	NA	2
+"1129"	2075	"Bulgaria"	"Total"	"Total"	"4,942,705"	NA	2
+"1130"	2080	"Bulgaria"	"Total"	"Total"	"4,798,771"	NA	2
+"1131"	2015	"Czech Republic"	"Total"	"Total"	"10,512,978"	NA	2
+"1132"	2020	"Czech Republic"	"Total"	"Total"	"10,483,880"	NA	2
+"1133"	2025	"Czech Republic"	"Total"	"Total"	"10,392,462"	NA	2
+"1134"	2030	"Czech Republic"	"Total"	"Total"	"10,230,370"	NA	2
+"1135"	2035	"Czech Republic"	"Total"	"Total"	"10,030,489"	NA	2
+"1136"	2040	"Czech Republic"	"Total"	"Total"	"9,833,951"	NA	2
+"1137"	2045	"Czech Republic"	"Total"	"Total"	"9,643,870"	NA	2
+"1138"	2050	"Czech Republic"	"Total"	"Total"	"9,446,582"	NA	2
+"1139"	2055	"Czech Republic"	"Total"	"Total"	"9,227,504"	NA	2
+"1140"	2060	"Czech Republic"	"Total"	"Total"	"8,976,274"	NA	2
+"1141"	2065	"Czech Republic"	"Total"	"Total"	"8,701,589"	NA	2
+"1142"	2070	"Czech Republic"	"Total"	"Total"	"8,429,613"	NA	2
+"1143"	2075	"Czech Republic"	"Total"	"Total"	"8,187,270"	NA	2
+"1144"	2080	"Czech Republic"	"Total"	"Total"	"7,986,243"	NA	2
+"1145"	2015	"Denmark"	"Total"	"Total"	"5,632,867"	NA	2
+"1146"	2020	"Denmark"	"Total"	"Total"	"5,660,441"	NA	2
+"1147"	2025	"Denmark"	"Total"	"Total"	"5,685,426"	NA	2
+"1148"	2030	"Denmark"	"Total"	"Total"	"5,692,839"	NA	2
+"1149"	2035	"Denmark"	"Total"	"Total"	"5,673,779"	NA	2
+"1150"	2040	"Denmark"	"Total"	"Total"	"5,630,995"	NA	2
+"1151"	2045	"Denmark"	"Total"	"Total"	"5,570,933"	NA	2
+"1152"	2050	"Denmark"	"Total"	"Total"	"5,504,106"	NA	2
+"1153"	2055	"Denmark"	"Total"	"Total"	"5,436,827"	NA	2
+"1154"	2060	"Denmark"	"Total"	"Total"	"5,369,754"	NA	2
+"1155"	2065	"Denmark"	"Total"	"Total"	"5,304,488"	NA	2
+"1156"	2070	"Denmark"	"Total"	"Total"	"5,243,545"	NA	2
+"1157"	2075	"Denmark"	"Total"	"Total"	"5,185,967"	NA	2
+"1158"	2080	"Denmark"	"Total"	"Total"	"5,128,723"	NA	2
+"1159"	2015	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"80,443,954"	NA	2
+"1160"	2020	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"79,141,641"	NA	2
+"1161"	2025	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"77,495,931"	NA	2
+"1162"	2030	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"75,479,370"	NA	2
+"1163"	2035	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"73,241,802"	NA	2
+"1164"	2040	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"70,862,530"	NA	2
+"1165"	2045	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"68,275,480"	NA	2
+"1166"	2050	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"65,459,737"	NA	2
+"1167"	2055	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"62,481,043"	NA	2
+"1168"	2060	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"59,529,378"	NA	2
+"1169"	2065	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"56,828,283"	NA	2
+"1170"	2070	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"54,439,607"	NA	2
+"1171"	2075	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"52,258,998"	NA	2
+"1172"	2080	"Germany (until 1990 former territory of the FRG)"	"Total"	"Total"	"50,201,169"	NA	2
+"1173"	2015	"Estonia"	"Total"	"Total"	"1,314,283"	NA	2
+"1174"	2020	"Estonia"	"Total"	"Total"	"1,304,434"	NA	2
+"1175"	2025	"Estonia"	"Total"	"Total"	"1,288,269"	NA	2
+"1176"	2030	"Estonia"	"Total"	"Total"	"1,267,448"	NA	2
+"1177"	2035	"Estonia"	"Total"	"Total"	"1,246,735"	NA	2
+"1178"	2040	"Estonia"	"Total"	"Total"	"1,228,437"	NA	2
+"1179"	2045	"Estonia"	"Total"	"Total"	"1,210,185"	NA	2
+"1180"	2050	"Estonia"	"Total"	"Total"	"1,189,630"	NA	2
+"1181"	2055	"Estonia"	"Total"	"Total"	"1,166,684"	NA	2
+"1182"	2060	"Estonia"	"Total"	"Total"	"1,142,698"	NA	2
+"1183"	2065	"Estonia"	"Total"	"Total"	"1,119,094"	NA	2
+"1184"	2070	"Estonia"	"Total"	"Total"	"1,096,441"	NA	2
+"1185"	2075	"Estonia"	"Total"	"Total"	"1,074,582"	NA	2
+"1186"	2080	"Estonia"	"Total"	"Total"	"1,053,324"	NA	2
+"1187"	2015	"Ireland"	"Total"	"Total"	"4,635,298"	NA	2
+"1188"	2020	"Ireland"	"Total"	"Total"	"4,810,515"	NA	2
+"1189"	2025	"Ireland"	"Total"	"Total"	"4,936,581"	NA	2
+"1190"	2030	"Ireland"	"Total"	"Total"	"5,035,672"	NA	2
+"1191"	2035	"Ireland"	"Total"	"Total"	"5,133,302"	NA	2
+"1192"	2040	"Ireland"	"Total"	"Total"	"5,231,363"	NA	2
+"1193"	2045	"Ireland"	"Total"	"Total"	"5,319,655"	NA	2
+"1194"	2050	"Ireland"	"Total"	"Total"	"5,381,220"	NA	2
+"1195"	2055	"Ireland"	"Total"	"Total"	"5,406,807"	NA	2
+"1196"	2060	"Ireland"	"Total"	"Total"	"5,404,893"	NA	2
+"1197"	2065	"Ireland"	"Total"	"Total"	"5,392,800"	NA	2
+"1198"	2070	"Ireland"	"Total"	"Total"	"5,384,350"	NA	2
+"1199"	2075	"Ireland"	"Total"	"Total"	"5,385,286"	NA	2
+"1200"	2080	"Ireland"	"Total"	"Total"	"5,395,583"	NA	2
+"1201"	2015	"Greece"	"Total"	"Total"	"11,004,238"	NA	2
+"1202"	2020	"Greece"	"Total"	"Total"	"10,847,351"	NA	2
+"1203"	2025	"Greece"	"Total"	"Total"	"10,642,653"	NA	2
+"1204"	2030	"Greece"	"Total"	"Total"	"10,414,690"	NA	2
+"1205"	2035	"Greece"	"Total"	"Total"	"10,177,625"	NA	2
+"1206"	2040	"Greece"	"Total"	"Total"	"9,928,501"	NA	2
+"1207"	2045	"Greece"	"Total"	"Total"	"9,650,693"	NA	2
+"1208"	2050	"Greece"	"Total"	"Total"	"9,329,336"	NA	2
+"1209"	2055	"Greece"	"Total"	"Total"	"8,967,038"	NA	2
+"1210"	2060	"Greece"	"Total"	"Total"	"8,577,255"	NA	2
+"1211"	2065	"Greece"	"Total"	"Total"	"8,179,335"	NA	2
+"1212"	2070	"Greece"	"Total"	"Total"	"7,792,815"	NA	2
+"1213"	2075	"Greece"	"Total"	"Total"	"7,432,815"	NA	2
+"1214"	2080	"Greece"	"Total"	"Total"	"7,108,055"	NA	2
+"1215"	2015	"Spain"	"Total"	"Total"	"46,474,323"	NA	2
+"1216"	2020	"Spain"	"Total"	"Total"	"46,302,413"	NA	2
+"1217"	2025	"Spain"	"Total"	"Total"	"45,795,129"	NA	2
+"1218"	2030	"Spain"	"Total"	"Total"	"45,093,956"	NA	2
+"1219"	2035	"Spain"	"Total"	"Total"	"44,295,715"	NA	2
+"1220"	2040	"Spain"	"Total"	"Total"	"43,399,942"	NA	2
+"1221"	2045	"Spain"	"Total"	"Total"	"42,318,514"	NA	2
+"1222"	2050	"Spain"	"Total"	"Total"	"40,944,283"	NA	2
+"1223"	2055	"Spain"	"Total"	"Total"	"39,253,999"	NA	2
+"1224"	2060	"Spain"	"Total"	"Total"	"37,334,878"	NA	2
+"1225"	2065	"Spain"	"Total"	"Total"	"35,332,239"	NA	2
+"1226"	2070	"Spain"	"Total"	"Total"	"33,397,574"	NA	2
+"1227"	2075	"Spain"	"Total"	"Total"	"31,661,020"	NA	2
+"1228"	2080	"Spain"	"Total"	"Total"	"30,190,375"	NA	2
+"1229"	2015	"France"	"Total"	"Total"	"66,088,715"	NA	2
+"1230"	2020	"France"	"Total"	"Total"	"67,079,953"	NA	2
+"1231"	2025	"France"	"Total"	"Total"	"67,878,780"	NA	2
+"1232"	2030	"France"	"Total"	"Total"	"68,578,216"	NA	2
+"1233"	2035	"France"	"Total"	"Total"	"69,146,932"	NA	2
+"1234"	2040	"France"	"Total"	"Total"	"69,478,603"	NA	2
+"1235"	2045	"France"	"Total"	"Total"	"69,538,427"	NA	2
+"1236"	2050	"France"	"Total"	"Total"	"69,419,295"	NA	2
+"1237"	2055	"France"	"Total"	"Total"	"69,223,770"	NA	2
+"1238"	2060	"France"	"Total"	"Total"	"69,009,521"	NA	2
+"1239"	2065	"France"	"Total"	"Total"	"68,834,273"	NA	2
+"1240"	2070	"France"	"Total"	"Total"	"68,737,613"	NA	2
+"1241"	2075	"France"	"Total"	"Total"	"68,713,142"	NA	2
+"1242"	2080	"France"	"Total"	"Total"	"68,713,709"	NA	2
+"1243"	2015	"Croatia"	"Total"	"Total"	"4,241,165"	NA	2
+"1244"	2020	"Croatia"	"Total"	"Total"	"4,182,263"	NA	2
+"1245"	2025	"Croatia"	"Total"	"Total"	"4,112,145"	NA	2
+"1246"	2030	"Croatia"	"Total"	"Total"	"4,032,974"	NA	2
+"1247"	2035	"Croatia"	"Total"	"Total"	"3,944,677"	NA	2
+"1248"	2040	"Croatia"	"Total"	"Total"	"3,848,316"	NA	2
+"1249"	2045	"Croatia"	"Total"	"Total"	"3,745,413"	NA	2
+"1250"	2050	"Croatia"	"Total"	"Total"	"3,638,891"	NA	2
+"1251"	2055	"Croatia"	"Total"	"Total"	"3,532,164"	NA	2
+"1252"	2060	"Croatia"	"Total"	"Total"	"3,426,822"	NA	2
+"1253"	2065	"Croatia"	"Total"	"Total"	"3,322,752"	NA	2
+"1254"	2070	"Croatia"	"Total"	"Total"	"3,219,686"	NA	2
+"1255"	2075	"Croatia"	"Total"	"Total"	"3,118,659"	NA	2
+"1256"	2080	"Croatia"	"Total"	"Total"	"3,022,548"	NA	2
+"1257"	2015	"Italy"	"Total"	"Total"	"60,638,402"	NA	2
+"1258"	2020	"Italy"	"Total"	"Total"	"59,935,496"	NA	2
+"1259"	2025	"Italy"	"Total"	"Total"	"58,948,488"	NA	2
+"1260"	2030	"Italy"	"Total"	"Total"	"57,761,821"	NA	2
+"1261"	2035	"Italy"	"Total"	"Total"	"56,434,330"	NA	2
+"1262"	2040	"Italy"	"Total"	"Total"	"54,984,091"	NA	2
+"1263"	2045	"Italy"	"Total"	"Total"	"53,363,777"	NA	2
+"1264"	2050	"Italy"	"Total"	"Total"	"51,505,097"	NA	2
+"1265"	2055	"Italy"	"Total"	"Total"	"49,398,083"	NA	2
+"1266"	2060	"Italy"	"Total"	"Total"	"47,130,095"	NA	2
+"1267"	2065	"Italy"	"Total"	"Total"	"44,877,338"	NA	2
+"1268"	2070	"Italy"	"Total"	"Total"	"42,814,504"	NA	2
+"1269"	2075	"Italy"	"Total"	"Total"	"41,021,502"	NA	2
+"1270"	2080	"Italy"	"Total"	"Total"	"39,469,771"	NA	2
+"1271"	2015	"Cyprus"	"Total"	"Total"	"873,539"	NA	2
+"1272"	2020	"Cyprus"	"Total"	"Total"	"894,448"	NA	2
+"1273"	2025	"Cyprus"	"Total"	"Total"	"908,423"	NA	2
+"1274"	2030	"Cyprus"	"Total"	"Total"	"912,861"	NA	2
+"1275"	2035	"Cyprus"	"Total"	"Total"	"909,149"	NA	2
+"1276"	2040	"Cyprus"	"Total"	"Total"	"900,706"	NA	2
+"1277"	2045	"Cyprus"	"Total"	"Total"	"889,661"	NA	2
+"1278"	2050	"Cyprus"	"Total"	"Total"	"875,965"	NA	2
+"1279"	2055	"Cyprus"	"Total"	"Total"	"858,466"	NA	2
+"1280"	2060	"Cyprus"	"Total"	"Total"	"836,443"	NA	2
+"1281"	2065	"Cyprus"	"Total"	"Total"	"810,265"	NA	2
+"1282"	2070	"Cyprus"	"Total"	"Total"	"780,821"	NA	2
+"1283"	2075	"Cyprus"	"Total"	"Total"	"749,361"	NA	2
+"1284"	2080	"Cyprus"	"Total"	"Total"	"717,636"	NA	2
+"1285"	2015	"Latvia"	"Total"	"Total"	"1,996,575"	NA	2
+"1286"	2020	"Latvia"	"Total"	"Total"	"1,956,055"	NA	2
+"1287"	2025	"Latvia"	"Total"	"Total"	"1,912,139"	NA	2
+"1288"	2030	"Latvia"	"Total"	"Total"	"1,865,059"	NA	2
+"1289"	2035	"Latvia"	"Total"	"Total"	"1,819,593"	NA	2
+"1290"	2040	"Latvia"	"Total"	"Total"	"1,778,607"	NA	2
+"1291"	2045	"Latvia"	"Total"	"Total"	"1,739,679"	NA	2
+"1292"	2050	"Latvia"	"Total"	"Total"	"1,699,546"	NA	2
+"1293"	2055	"Latvia"	"Total"	"Total"	"1,657,648"	NA	2
+"1294"	2060	"Latvia"	"Total"	"Total"	"1,615,533"	NA	2
+"1295"	2065	"Latvia"	"Total"	"Total"	"1,574,980"	NA	2
+"1296"	2070	"Latvia"	"Total"	"Total"	"1,536,408"	NA	2
+"1297"	2075	"Latvia"	"Total"	"Total"	"1,499,047"	NA	2
+"1298"	2080	"Latvia"	"Total"	"Total"	"1,462,345"	NA	2
+"1299"	2015	"Lithuania"	"Total"	"Total"	"2,934,650"	NA	2
+"1300"	2020	"Lithuania"	"Total"	"Total"	"2,890,776"	NA	2
+"1301"	2025	"Lithuania"	"Total"	"Total"	"2,849,042"	NA	2
+"1302"	2030	"Lithuania"	"Total"	"Total"	"2,799,629"	NA	2
+"1303"	2035	"Lithuania"	"Total"	"Total"	"2,743,652"	NA	2
+"1304"	2040	"Lithuania"	"Total"	"Total"	"2,688,855"	NA	2
+"1305"	2045	"Lithuania"	"Total"	"Total"	"2,637,506"	NA	2
+"1306"	2050	"Lithuania"	"Total"	"Total"	"2,586,839"	NA	2
+"1307"	2055	"Lithuania"	"Total"	"Total"	"2,534,146"	NA	2
+"1308"	2060	"Lithuania"	"Total"	"Total"	"2,479,818"	NA	2
+"1309"	2065	"Lithuania"	"Total"	"Total"	"2,427,235"	NA	2
+"1310"	2070	"Lithuania"	"Total"	"Total"	"2,379,534"	NA	2
+"1311"	2075	"Lithuania"	"Total"	"Total"	"2,336,525"	NA	2
+"1312"	2080	"Lithuania"	"Total"	"Total"	"2,294,330"	NA	2
+"1313"	2015	"Luxembourg"	"Total"	"Total"	"552,132"	NA	2
+"1314"	2020	"Luxembourg"	"Total"	"Total"	"562,161"	NA	2
+"1315"	2025	"Luxembourg"	"Total"	"Total"	"568,562"	NA	2
+"1316"	2030	"Luxembourg"	"Total"	"Total"	"571,940"	NA	2
+"1317"	2035	"Luxembourg"	"Total"	"Total"	"572,692"	NA	2
+"1318"	2040	"Luxembourg"	"Total"	"Total"	"570,791"	NA	2
+"1319"	2045	"Luxembourg"	"Total"	"Total"	"566,040"	NA	2
+"1320"	2050	"Luxembourg"	"Total"	"Total"	"558,053"	NA	2
+"1321"	2055	"Luxembourg"	"Total"	"Total"	"546,843"	NA	2
+"1322"	2060	"Luxembourg"	"Total"	"Total"	"533,266"	NA	2
+"1323"	2065	"Luxembourg"	"Total"	"Total"	"518,810"	NA	2
+"1324"	2070	"Luxembourg"	"Total"	"Total"	"504,659"	NA	2
+"1325"	2075	"Luxembourg"	"Total"	"Total"	"491,385"	NA	2
+"1326"	2080	"Luxembourg"	"Total"	"Total"	"479,224"	NA	2
+"1327"	2015	"Hungary"	"Total"	"Total"	"9,841,418"	NA	2
+"1328"	2020	"Hungary"	"Total"	"Total"	"9,656,184"	NA	2
+"1329"	2025	"Hungary"	"Total"	"Total"	"9,471,299"	NA	2
+"1330"	2030	"Hungary"	"Total"	"Total"	"9,270,727"	NA	2
+"1331"	2035	"Hungary"	"Total"	"Total"	"9,047,460"	NA	2
+"1332"	2040	"Hungary"	"Total"	"Total"	"8,811,372"	NA	2
+"1333"	2045	"Hungary"	"Total"	"Total"	"8,571,143"	NA	2
+"1334"	2050	"Hungary"	"Total"	"Total"	"8,337,241"	NA	2
+"1335"	2055	"Hungary"	"Total"	"Total"	"8,111,522"	NA	2
+"1336"	2060	"Hungary"	"Total"	"Total"	"7,880,470"	NA	2
+"1337"	2065	"Hungary"	"Total"	"Total"	"7,633,161"	NA	2
+"1338"	2070	"Hungary"	"Total"	"Total"	"7,380,338"	NA	2
+"1339"	2075	"Hungary"	"Total"	"Total"	"7,144,128"	NA	2
+"1340"	2080	"Hungary"	"Total"	"Total"	"6,936,101"	NA	2
+"1341"	2015	"Malta"	"Total"	"Total"	"424,574"	NA	2
+"1342"	2020	"Malta"	"Total"	"Total"	"428,285"	NA	2
+"1343"	2025	"Malta"	"Total"	"Total"	"429,455"	NA	2
+"1344"	2030	"Malta"	"Total"	"Total"	"426,853"	NA	2
+"1345"	2035	"Malta"	"Total"	"Total"	"420,492"	NA	2
+"1346"	2040	"Malta"	"Total"	"Total"	"411,636"	NA	2
+"1347"	2045	"Malta"	"Total"	"Total"	"402,077"	NA	2
+"1348"	2050	"Malta"	"Total"	"Total"	"392,988"	NA	2
+"1349"	2055	"Malta"	"Total"	"Total"	"384,331"	NA	2
+"1350"	2060	"Malta"	"Total"	"Total"	"375,502"	NA	2
+"1351"	2065	"Malta"	"Total"	"Total"	"365,898"	NA	2
+"1352"	2070	"Malta"	"Total"	"Total"	"355,297"	NA	2
+"1353"	2075	"Malta"	"Total"	"Total"	"344,138"	NA	2
+"1354"	2080	"Malta"	"Total"	"Total"	"333,268"	NA	2
+"1355"	2015	"Netherlands"	"Total"	"Total"	"16,858,958"	NA	2
+"1356"	2020	"Netherlands"	"Total"	"Total"	"16,994,391"	NA	2
+"1357"	2025	"Netherlands"	"Total"	"Total"	"17,082,809"	NA	2
+"1358"	2030	"Netherlands"	"Total"	"Total"	"17,096,885"	NA	2
+"1359"	2035	"Netherlands"	"Total"	"Total"	"17,021,461"	NA	2
+"1360"	2040	"Netherlands"	"Total"	"Total"	"16,849,046"	NA	2
+"1361"	2045	"Netherlands"	"Total"	"Total"	"16,597,831"	NA	2
+"1362"	2050	"Netherlands"	"Total"	"Total"	"16,301,871"	NA	2
+"1363"	2055	"Netherlands"	"Total"	"Total"	"15,985,765"	NA	2
+"1364"	2060	"Netherlands"	"Total"	"Total"	"15,668,897"	NA	2
+"1365"	2065	"Netherlands"	"Total"	"Total"	"15,374,576"	NA	2
+"1366"	2070	"Netherlands"	"Total"	"Total"	"15,114,035"	NA	2
+"1367"	2075	"Netherlands"	"Total"	"Total"	"14,874,517"	NA	2
+"1368"	2080	"Netherlands"	"Total"	"Total"	"14,633,500"	NA	2
+"1369"	2015	"Austria"	"Total"	"Total"	"8,504,697"	NA	2
+"1370"	2020	"Austria"	"Total"	"Total"	"8,488,712"	NA	2
+"1371"	2025	"Austria"	"Total"	"Total"	"8,437,411"	NA	2
+"1372"	2030	"Austria"	"Total"	"Total"	"8,335,866"	NA	2
+"1373"	2035	"Austria"	"Total"	"Total"	"8,186,397"	NA	2
+"1374"	2040	"Austria"	"Total"	"Total"	"8,005,551"	NA	2
+"1375"	2045	"Austria"	"Total"	"Total"	"7,799,422"	NA	2
+"1376"	2050	"Austria"	"Total"	"Total"	"7,560,788"	NA	2
+"1377"	2055	"Austria"	"Total"	"Total"	"7,287,815"	NA	2
+"1378"	2060	"Austria"	"Total"	"Total"	"6,995,566"	NA	2
+"1379"	2065	"Austria"	"Total"	"Total"	"6,710,006"	NA	2
+"1380"	2070	"Austria"	"Total"	"Total"	"6,446,476"	NA	2
+"1381"	2075	"Austria"	"Total"	"Total"	"6,200,819"	NA	2
+"1382"	2080	"Austria"	"Total"	"Total"	"5,964,504"	NA	2
+"1383"	2015	"Poland"	"Total"	"Total"	"38,498,213"	NA	2
+"1384"	2020	"Poland"	"Total"	"Total"	"38,369,118"	NA	2
+"1385"	2025	"Poland"	"Total"	"Total"	"38,012,906"	NA	2
+"1386"	2030	"Poland"	"Total"	"Total"	"37,441,923"	NA	2
+"1387"	2035	"Poland"	"Total"	"Total"	"36,718,714"	NA	2
+"1388"	2040	"Poland"	"Total"	"Total"	"35,883,734"	NA	2
+"1389"	2045	"Poland"	"Total"	"Total"	"34,934,150"	NA	2
+"1390"	2050	"Poland"	"Total"	"Total"	"33,904,455"	NA	2
+"1391"	2055	"Poland"	"Total"	"Total"	"32,842,394"	NA	2
+"1392"	2060	"Poland"	"Total"	"Total"	"31,755,088"	NA	2
+"1393"	2065	"Poland"	"Total"	"Total"	"30,608,203"	NA	2
+"1394"	2070	"Poland"	"Total"	"Total"	"29,377,758"	NA	2
+"1395"	2075	"Poland"	"Total"	"Total"	"28,095,491"	NA	2
+"1396"	2080	"Poland"	"Total"	"Total"	"26,844,419"	NA	2
+"1397"	2015	"Portugal"	"Total"	"Total"	"10,398,339"	NA	2
+"1398"	2020	"Portugal"	"Total"	"Total"	"10,239,512"	NA	2
+"1399"	2025	"Portugal"	"Total"	"Total"	"10,039,966"	NA	2
+"1400"	2030	"Portugal"	"Total"	"Total"	"9,818,494"	NA	2
+"1401"	2035	"Portugal"	"Total"	"Total"	"9,574,991"	NA	2
+"1402"	2040	"Portugal"	"Total"	"Total"	"9,296,707"	NA	2
+"1403"	2045	"Portugal"	"Total"	"Total"	"8,976,341"	NA	2
+"1404"	2050	"Portugal"	"Total"	"Total"	"8,616,472"	NA	2
+"1405"	2055	"Portugal"	"Total"	"Total"	"8,229,505"	NA	2
+"1406"	2060	"Portugal"	"Total"	"Total"	"7,830,502"	NA	2
+"1407"	2065	"Portugal"	"Total"	"Total"	"7,431,550"	NA	2
+"1408"	2070	"Portugal"	"Total"	"Total"	"7,045,922"	NA	2
+"1409"	2075	"Portugal"	"Total"	"Total"	"6,688,682"	NA	2
+"1410"	2080	"Portugal"	"Total"	"Total"	"6,367,101"	NA	2
+"1411"	2015	"Romania"	"Total"	"Total"	"19,916,828"	NA	2
+"1412"	2020	"Romania"	"Total"	"Total"	"19,693,999"	NA	2
+"1413"	2025	"Romania"	"Total"	"Total"	"19,446,652"	NA	2
+"1414"	2030	"Romania"	"Total"	"Total"	"19,184,486"	NA	2
+"1415"	2035	"Romania"	"Total"	"Total"	"18,906,298"	NA	2
+"1416"	2040	"Romania"	"Total"	"Total"	"18,605,789"	NA	2
+"1417"	2045	"Romania"	"Total"	"Total"	"18,281,288"	NA	2
+"1418"	2050	"Romania"	"Total"	"Total"	"17,951,766"	NA	2
+"1419"	2055	"Romania"	"Total"	"Total"	"17,615,886"	NA	2
+"1420"	2060	"Romania"	"Total"	"Total"	"17,251,736"	NA	2
+"1421"	2065	"Romania"	"Total"	"Total"	"16,856,352"	NA	2
+"1422"	2070	"Romania"	"Total"	"Total"	"16,462,657"	NA	2
+"1423"	2075	"Romania"	"Total"	"Total"	"16,104,219"	NA	2
+"1424"	2080	"Romania"	"Total"	"Total"	"15,789,732"	NA	2
+"1425"	2015	"Slovenia"	"Total"	"Total"	"2,062,785"	NA	2
+"1426"	2020	"Slovenia"	"Total"	"Total"	"2,061,266"	NA	2
+"1427"	2025	"Slovenia"	"Total"	"Total"	"2,041,827"	NA	2
+"1428"	2030	"Slovenia"	"Total"	"Total"	"2,009,247"	NA	2
+"1429"	2035	"Slovenia"	"Total"	"Total"	"1,970,360"	NA	2
+"1430"	2040	"Slovenia"	"Total"	"Total"	"1,929,454"	NA	2
+"1431"	2045	"Slovenia"	"Total"	"Total"	"1,884,809"	NA	2
+"1432"	2050	"Slovenia"	"Total"	"Total"	"1,833,137"	NA	2
+"1433"	2055	"Slovenia"	"Total"	"Total"	"1,774,881"	NA	2
+"1434"	2060	"Slovenia"	"Total"	"Total"	"1,713,294"	NA	2
+"1435"	2065	"Slovenia"	"Total"	"Total"	"1,652,632"	NA	2
+"1436"	2070	"Slovenia"	"Total"	"Total"	"1,596,158"	NA	2
+"1437"	2075	"Slovenia"	"Total"	"Total"	"1,545,092"	NA	2
+"1438"	2080	"Slovenia"	"Total"	"Total"	"1,500,376"	NA	2
+"1439"	2015	"Slovakia"	"Total"	"Total"	"5,414,998"	NA	2
+"1440"	2020	"Slovakia"	"Total"	"Total"	"5,397,096"	NA	2
+"1441"	2025	"Slovakia"	"Total"	"Total"	"5,349,393"	NA	2
+"1442"	2030	"Slovakia"	"Total"	"Total"	"5,267,740"	NA	2
+"1443"	2035	"Slovakia"	"Total"	"Total"	"5,157,588"	NA	2
+"1444"	2040	"Slovakia"	"Total"	"Total"	"5,027,743"	NA	2
+"1445"	2045	"Slovakia"	"Total"	"Total"	"4,882,411"	NA	2
+"1446"	2050	"Slovakia"	"Total"	"Total"	"4,722,958"	NA	2
+"1447"	2055	"Slovakia"	"Total"	"Total"	"4,551,953"	NA	2
+"1448"	2060	"Slovakia"	"Total"	"Total"	"4,369,913"	NA	2
+"1449"	2065	"Slovakia"	"Total"	"Total"	"4,176,193"	NA	2
+"1450"	2070	"Slovakia"	"Total"	"Total"	"3,974,263"	NA	2
+"1451"	2075	"Slovakia"	"Total"	"Total"	"3,772,667"	NA	2
+"1452"	2080	"Slovakia"	"Total"	"Total"	"3,581,459"	NA	2
+"1453"	2015	"Finland"	"Total"	"Total"	"5,458,221"	NA	2
+"1454"	2020	"Finland"	"Total"	"Total"	"5,485,656"	NA	2
+"1455"	2025	"Finland"	"Total"	"Total"	"5,492,183"	NA	2
+"1456"	2030	"Finland"	"Total"	"Total"	"5,471,875"	NA	2
+"1457"	2035	"Finland"	"Total"	"Total"	"5,424,036"	NA	2
+"1458"	2040	"Finland"	"Total"	"Total"	"5,356,378"	NA	2
+"1459"	2045	"Finland"	"Total"	"Total"	"5,280,358"	NA	2
+"1460"	2050	"Finland"	"Total"	"Total"	"5,205,750"	NA	2
+"1461"	2055	"Finland"	"Total"	"Total"	"5,135,729"	NA	2
+"1462"	2060	"Finland"	"Total"	"Total"	"5,069,750"	NA	2
+"1463"	2065	"Finland"	"Total"	"Total"	"5,008,377"	NA	2
+"1464"	2070	"Finland"	"Total"	"Total"	"4,950,120"	NA	2
+"1465"	2075	"Finland"	"Total"	"Total"	"4,890,810"	NA	2
+"1466"	2080	"Finland"	"Total"	"Total"	"4,829,970"	NA	2
+"1467"	2015	"Sweden"	"Total"	"Total"	"9,670,588"	NA	2
+"1468"	2020	"Sweden"	"Total"	"Total"	"9,800,747"	NA	2
+"1469"	2025	"Sweden"	"Total"	"Total"	"9,905,845"	NA	2
+"1470"	2030	"Sweden"	"Total"	"Total"	"9,946,003"	NA	2
+"1471"	2035	"Sweden"	"Total"	"Total"	"9,928,069"	NA	2
+"1472"	2040	"Sweden"	"Total"	"Total"	"9,892,941"	NA	2
+"1473"	2045	"Sweden"	"Total"	"Total"	"9,865,661"	NA	2
+"1474"	2050	"Sweden"	"Total"	"Total"	"9,842,252"	NA	2
+"1475"	2055	"Sweden"	"Total"	"Total"	"9,802,313"	NA	2
+"1476"	2060	"Sweden"	"Total"	"Total"	"9,734,121"	NA	2
+"1477"	2065	"Sweden"	"Total"	"Total"	"9,650,116"	NA	2
+"1478"	2070	"Sweden"	"Total"	"Total"	"9,572,737"	NA	2
+"1479"	2075	"Sweden"	"Total"	"Total"	"9,508,827"	NA	2
+"1480"	2080	"Sweden"	"Total"	"Total"	"9,448,922"	NA	2
+"1481"	2015	"United Kingdom"	"Total"	"Total"	"64,480,839"	NA	2
+"1482"	2020	"United Kingdom"	"Total"	"Total"	"65,613,488"	NA	2
+"1483"	2025	"United Kingdom"	"Total"	"Total"	"66,467,365"	NA	2
+"1484"	2030	"United Kingdom"	"Total"	"Total"	"66,976,410"	NA	2
+"1485"	2035	"United Kingdom"	"Total"	"Total"	"67,205,678"	NA	2
+"1486"	2040	"United Kingdom"	"Total"	"Total"	"67,298,251"	NA	2
+"1487"	2045	"United Kingdom"	"Total"	"Total"	"67,332,693"	NA	2
+"1488"	2050	"United Kingdom"	"Total"	"Total"	"67,251,838"	NA	2
+"1489"	2055	"United Kingdom"	"Total"	"Total"	"66,966,837"	NA	2
+"1490"	2060	"United Kingdom"	"Total"	"Total"	"66,494,225"	NA	2
+"1491"	2065	"United Kingdom"	"Total"	"Total"	"65,970,727"	NA	2
+"1492"	2070	"United Kingdom"	"Total"	"Total"	"65,511,449"	NA	2
+"1493"	2075	"United Kingdom"	"Total"	"Total"	"65,112,892"	NA	2
+"1494"	2080	"United Kingdom"	"Total"	"Total"	"64,710,496"	NA	2
+"1495"	2015	"Iceland"	"Total"	"Total"	"328,415"	NA	2
+"1496"	2020	"Iceland"	"Total"	"Total"	"341,670"	NA	2
+"1497"	2025	"Iceland"	"Total"	"Total"	"353,570"	NA	2
+"1498"	2030	"Iceland"	"Total"	"Total"	"363,680"	NA	2
+"1499"	2035	"Iceland"	"Total"	"Total"	"371,988"	NA	2
+"1500"	2040	"Iceland"	"Total"	"Total"	"378,721"	NA	2
+"1501"	2045	"Iceland"	"Total"	"Total"	"383,990"	NA	2
+"1502"	2050	"Iceland"	"Total"	"Total"	"387,948"	NA	2
+"1503"	2055	"Iceland"	"Total"	"Total"	"390,802"	NA	2
+"1504"	2060	"Iceland"	"Total"	"Total"	"392,907"	NA	2
+"1505"	2065	"Iceland"	"Total"	"Total"	"394,593"	NA	2
+"1506"	2070	"Iceland"	"Total"	"Total"	"395,988"	NA	2
+"1507"	2075	"Iceland"	"Total"	"Total"	"396,983"	NA	2
+"1508"	2080	"Iceland"	"Total"	"Total"	"397,561"	NA	2
+"1509"	2015	"Norway"	"Total"	"Total"	"5,128,946"	NA	2
+"1510"	2020	"Norway"	"Total"	"Total"	"5,226,445"	NA	2
+"1511"	2025	"Norway"	"Total"	"Total"	"5,312,753"	NA	2
+"1512"	2030	"Norway"	"Total"	"Total"	"5,375,500"	NA	2
+"1513"	2035	"Norway"	"Total"	"Total"	"5,409,691"	NA	2
+"1514"	2040	"Norway"	"Total"	"Total"	"5,418,902"	NA	2
+"1515"	2045	"Norway"	"Total"	"Total"	"5,409,810"	NA	2
+"1516"	2050	"Norway"	"Total"	"Total"	"5,386,378"	NA	2
+"1517"	2055	"Norway"	"Total"	"Total"	"5,348,657"	NA	2
+"1518"	2060	"Norway"	"Total"	"Total"	"5,297,587"	NA	2
+"1519"	2065	"Norway"	"Total"	"Total"	"5,239,043"	NA	2
+"1520"	2070	"Norway"	"Total"	"Total"	"5,181,491"	NA	2
+"1521"	2075	"Norway"	"Total"	"Total"	"5,128,485"	NA	2
+"1522"	2080	"Norway"	"Total"	"Total"	"5,077,041"	NA	2
+"1523"	2015	"Switzerland"	"Total"	"Total"	"8,155,263"	NA	2
+"1524"	2020	"Switzerland"	"Total"	"Total"	"8,225,074"	NA	2
+"1525"	2025	"Switzerland"	"Total"	"Total"	"8,245,377"	NA	2
+"1526"	2030	"Switzerland"	"Total"	"Total"	"8,207,309"	NA	2
+"1527"	2035	"Switzerland"	"Total"	"Total"	"8,114,507"	NA	2
+"1528"	2040	"Switzerland"	"Total"	"Total"	"7,980,722"	NA	2
+"1529"	2045	"Switzerland"	"Total"	"Total"	"7,818,278"	NA	2
+"1530"	2050	"Switzerland"	"Total"	"Total"	"7,625,699"	NA	2
+"1531"	2055	"Switzerland"	"Total"	"Total"	"7,396,249"	NA	2
+"1532"	2060	"Switzerland"	"Total"	"Total"	"7,138,097"	NA	2
+"1533"	2065	"Switzerland"	"Total"	"Total"	"6,875,313"	NA	2
+"1534"	2070	"Switzerland"	"Total"	"Total"	"6,627,787"	NA	2
+"1535"	2075	"Switzerland"	"Total"	"Total"	"6,399,368"	NA	2
+"1536"	2080	"Switzerland"	"Total"	"Total"	"6,188,784"	NA	2
